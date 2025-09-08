@@ -1,7 +1,7 @@
 # Phi-Ground
 
 <p align="center">
-   <a href="https://zhangmiaosen2000.github.io/Phi-Ground/" target="_blank">🤖 HomePage</a> | <a href="https://huggingface.co/papers/2507.23779" target="_blank">📄 Paper </a> | <a href="https://arxiv.org/abs/2507.23779" target="_blank">📄 Arxiv </a> |<a href="https://huggingface.co/microsoft/Phi-Ground" target="_blank"> 😊 Model </a> | <a href="benchmark/new_annotations" target="_blank"> 😊 Eval data </a> 
+   <a href="https://microsoft.github.io/Phi-Ground/" target="_blank">🤖 HomePage</a> | <a href="https://huggingface.co/papers/2507.23779" target="_blank">📄 Paper </a> | <a href="https://arxiv.org/abs/2507.23779" target="_blank">📄 Arxiv </a> |<a href="https://huggingface.co/microsoft/Phi-Ground" target="_blank"> 😊 Model </a> | <a href="benchmark/new_annotations" target="_blank"> 😊 Eval data </a> 
 </p>
 
 Home page for Microsoft Phi-Ground tech-report.
@@ -115,7 +115,6 @@ Then you can use huggingface model or [vllm](https://github.com/vllm-project/vll
   year={2025}
 }
 ```
-
 
 
 ## Contributing
