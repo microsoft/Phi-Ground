@@ -29,9 +29,9 @@ def parse_args():
     parser.add_argument('--language', type=str, required=True, choices=LANGUAGES + ['all'], default='en', help="Language to use.")
     parser.add_argument('--gt_type', type=str, required=True, choices=GT_TYPES + ['all'], help="Ground truth type: 'positive' or 'negative'.")
     parser.add_argument('--log_path', type=str, required=True)
-    parser.add_argument("--use_planner", action="store_true", default=False)
-    parser.add_argument("--num_crops", type=int, default=16)
-    parser.add_argument("--output_format", type=str, default="xyxy")
+    parser.add_argument("--planner", type=str, required=False, default="None")
+    parser.add_argument("--num_crops", type=int, default=7)
+    parser.add_argument("--output_format", type=str, default="point")
     parser.add_argument("--input_format", type=str, default="IF")  # natural / IF
  
     args = parser.parse_args()
@@ -366,16 +366,12 @@ def process_input(content, input_format):
  
 def process_image(img, bbox, num_crops):
 
-    if num_crops<0:
-        target_width, target_height = 1920, 1080
-    elif num_crops == 16:
+    if num_crops == 16:
         target_width, target_height = 336 * 5, 336 *3
     elif num_crops == 7:
         target_width, target_height = 336 * 3, 336 *2
     elif num_crops == 28:
         target_width, target_height = 336 * 7, 336 *4
-    elif num_crops == 45:
-        target_width, target_height = 336 * 9, 336 *5
     else:
         raise NotImplementedError
 
@@ -521,15 +517,13 @@ def process_task(inp):
         result = {}  
         filename = sample["img_filename"]  
         img_path = os.path.join(args.screenspot_imgs, filename)  
-  
-        if args.use_planner:  
-            gpt4o = sample["gpt4o"]["Output"] if "4o" in args.screenspot_test else sample["re"]["Output"] 
-        # re = ""  
         re = "\nThe description of the element: \n"
-        if args.use_planner:  
-            func = gpt4o["functional_reference"]  
-            pos = gpt4o["positional_reference"]  
-            appear = gpt4o["appearance_reference"]  
+
+        if args.planner in ["gpt-4o", "o4-mini"]:  
+            long = sample[args.planner]["Output"] # if "4o" in args.screenspot_test else sample["re"]["Output"] 
+            func = long["functional_reference"]  
+            pos = long["positional_reference"]  
+            appear = long["appearance_reference"]  
             re += func  
             re += "\n"  
             re += pos  
@@ -561,7 +555,7 @@ def process_task(inp):
                 img_id += 1  
                 image_list.append(img)  
           
-        prompt += "<|end|> \n<|assistant|>"  
+        prompt += "<|end|> \n<|assistant|>" 
         result["prompt_data"] = {  
             "prompt": prompt,  
             "multi_modal_data": {  
@@ -592,8 +586,7 @@ def process_task(inp):
         return None  
 
  
-def main(args):
- 
+def main(args): 
     llm = get_model(args)
     print("Load model success")
  
@@ -694,8 +687,7 @@ def main(args):
     
    
     outputs = llm.generate(prompt_list, sampling_params = SamplingParams(temperature=0, max_tokens=64))   # 32007, 32000
-    #
-    # 
+     
     preds = [o.outputs[0].text for o in outputs]
     # print(preds)
 
