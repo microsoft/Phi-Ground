@@ -1,0 +1,61 @@
+{
+    "image_id": "Image-91fe",
+    "task": "\u73b0\u5728\u6211\u6253\u5f00\u4e86ps\u7684\u88c1\u526a\u56fe\u7247\u529f\u80fd\uff0c\u8bf7\u4f60\u62d6\u52a8\u5de6\u4e0a\u89d2\u88c1\u526a\u5230\u5c0f\u9e7f\u7684\u5934\u7684\u4f4d\u7f6e\uff0c\u4f46\u4e0d\u8981\u88c1\u6389\u5c0f\u9e7f\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    835.17,
+                    123.66
+                ],
+                [
+                    848.92,
+                    183.81
+                ],
+                [
+                    922.81,
+                    176.93
+                ],
+                [
+                    910.78,
+                    101.32
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    989.83,
+                    400.33
+                ],
+                [
+                    977.8,
+                    554.99
+                ],
+                [
+                    1080.91,
+                    597.96
+                ],
+                [
+                    1208.07,
+                    494.85
+                ],
+                [
+                    1113.56,
+                    376.28
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have now opened Photoshop\u2019s crop tool; please drag the top\u2010left corner of the crop box to the deer\u2019s head, but make sure you don\u2019t cut off the deer.",
+    "modality": "Image"
+}

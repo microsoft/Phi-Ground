@@ -1,0 +1,39 @@
+{
+  "image_id": "Text-b94f",
+  "task": "I want to insert text. Please click in the blank space between “- Logistics & Delivery Operations:” and “Dispatchers and drivers” to place the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          338.68,
+          430.37
+        ],
+        [
+          382.6,
+          424.51
+        ],
+        [
+          382.6,
+          481.6
+        ],
+        [
+          334.29,
+          471.35
+        ],
+        [
+          344.54,
+          443.54
+        ],
+        [
+          346.0,
+          436.22
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

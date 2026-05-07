@@ -1,0 +1,19 @@
+# Extra dependencies for models that use the Qwen3-VL backbone:
+#   - mPLUG/GUI-Owl-1.5-8B-{Instruct,Think}
+#   - meituan/EvoCUA-{8B,32B}-20260105
+#
+# Install this on top of the base requirements:
+#   pip install -r requirements.txt -r requirements-qwen3vl.txt
+#
+# These checkpoints use the `Qwen3VLForConditionalGeneration` class, which is
+# only available in transformers >= 4.55. They also need a vLLM build that
+# carries the Qwen3-VL chat template / mm-processor.
+
+-r requirements.txt
+
+# Override the upper bound from the base requirements.
+transformers>=4.55.0
+qwen-vl-utils>=0.0.11
+
+# Use a vLLM nightly / 0.7+ build that supports the Qwen3-VL backbone.
+vllm>=0.7.0

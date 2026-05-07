@@ -1,0 +1,33 @@
+{
+    "image_id": "Table-cf46",
+    "task": "\u8bf7\u5728\u8868\u683c\u4e2d\u9009\u4e2dbanana\u6240\u5728\u7684\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    424.94,
+                    324.77
+                ],
+                [
+                    431.15,
+                    380.6
+                ],
+                [
+                    618.8,
+                    379.05
+                ],
+                [
+                    626.56,
+                    323.22
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Select the cell containing \u201cbanana\u201d in the table.",
+    "modality": "Table"
+}

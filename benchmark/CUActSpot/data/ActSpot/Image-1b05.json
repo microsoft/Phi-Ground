@@ -1,0 +1,55 @@
+{
+  "image_id": "Image-1b05",
+  "task": "The screen displays four layers. Please drag the last layer to the front.",
+  "polygons": [
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          1671.85,
+          953.48
+        ],
+        [
+          1669.75,
+          1003.95
+        ],
+        [
+          1913.69,
+          997.64
+        ],
+        [
+          1913.69,
+          957.69
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          1663.44,
+          823.1
+        ],
+        [
+          1665.54,
+          890.39
+        ],
+        [
+          1913.69,
+          877.77
+        ],
+        [
+          1915.79,
+          816.79
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

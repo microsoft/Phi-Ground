@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-e362",
+    "task": "\u6211\u5728WPS PPT \u4e2d\u7ed8\u5236\u4e86\u4e09\u4e2a\u77e9\u5f62\uff0c\u73b0\u5728\u5904\u4e8e\u9009\u62e9\u754c\u9762\uff0c\u9700\u8981\u4f60\u62d6\u52a8\u4e00\u6b21\u6027\u9009\u4e2d\u4e09\u4e2a\u77e9\u5f62",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    552.47,
+                    372.99
+                ],
+                [
+                    540.61,
+                    189.96
+                ],
+                [
+                    274.54,
+                    178.1
+                ],
+                [
+                    305.05,
+                    325.54
+                ],
+                [
+                    389.78,
+                    401.8
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1801.47,
+                    1227.12
+                ],
+                [
+                    1781.14,
+                    1357.62
+                ],
+                [
+                    2091.27,
+                    1425.41
+                ],
+                [
+                    2104.83,
+                    1213.57
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have drawn three rectangles in WPS PPT and am currently in selection mode. Please drag to select all three rectangles at once.",
+    "modality": "Canvas"
+}

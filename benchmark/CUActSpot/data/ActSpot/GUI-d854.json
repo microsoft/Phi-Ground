@@ -1,0 +1,57 @@
+{
+    "image_id": "GUI-d854",
+    "task": "\u73b0\u5728\u6211\u5728PS\u4e2d\u6253\u5f00\u4e86vibrance\u8c03\u8282\u754c\u9762\uff0c\u9700\u8981\u4f60\u62d6\u52a8vibrance\u6309\u94ae\u8c03\u8282\u81f4\u6700\u5927\u503c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    2144.13,
+                    618.0
+                ],
+                [
+                    2152.81,
+                    673.51
+                ],
+                [
+                    2192.71,
+                    670.04
+                ],
+                [
+                    2187.5,
+                    623.2
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2253.42,
+                    614.53
+                ],
+                [
+                    2260.36,
+                    664.84
+                ],
+                [
+                    2300.26,
+                    666.57
+                ],
+                [
+                    2296.79,
+                    598.92
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have opened the Vibrance adjustment interface in Photoshop. Please drag the Vibrance slider to its maximum value.",
+    "modality": "GUI"
+}

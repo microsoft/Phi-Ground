@@ -1,0 +1,57 @@
+{
+    "image_id": "GUI-471d",
+    "task": "\u628aJava17\u6587\u4ef6\u5939\u62d6\u52a8\u5230java21\u4e2d",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    97.99,
+                    202.34
+                ],
+                [
+                    97.99,
+                    235.94
+                ],
+                [
+                    669.15,
+                    235.94
+                ],
+                [
+                    671.95,
+                    202.34
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    95.19,
+                    241.54
+                ],
+                [
+                    92.39,
+                    280.73
+                ],
+                [
+                    666.35,
+                    280.73
+                ],
+                [
+                    655.15,
+                    235.94
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the Java17 folder into java21.",
+    "modality": "GUI"
+}

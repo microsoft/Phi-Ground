@@ -1,0 +1,28 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "phi-ground-4b-16c-full",
+    "preset": "phi_ground_4b_16c_vllm",
+    "backend": {
+      "target": "phi_ground_vllm",
+      "kwargs": {
+        "model": "<PATH_OR_HF_ID_TO_PHI_GROUND_4B_16C_CHECKPOINT>",
+        "tensor_parallel_size": 1,
+        "trust_remote_code": true,
+        "max_num_seqs": 8,
+        "max_model_len": 8192
+      }
+    },
+    "generation": {
+      "temperature": 0.0,
+      "max_tokens": 64
+    }
+  },
+  "output": {
+    "output_dir": "outputs/phi_ground_4b_16c_full",
+    "report_file": "report.json",
+    "overwrite": true
+  }
+}

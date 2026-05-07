@@ -1,0 +1,41 @@
+{
+    "image_id": "Image-4104",
+    "task": "\u73b0\u5728\u6211\u9009\u4e2d\u4e86Remover\u529f\u80fd\uff0c\u6211\u9700\u8981\u4f60\u5e2e\u6211\u62d6\u52a8\u753b\u7b14\u5c06\u753b\u9762\u8857\u9053\u53f3\u4fa7\u6b63\u5728\u73a9\u624b\u673a\u7684\u8def\u4eba\u6d82\u62b9\u8986\u76d6\uff0c\u4ee5\u5b9e\u73b0\u81ea\u52a8\u6d88\u9664\u529f\u80fd",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1890.03,
+                    541.75
+                ],
+                [
+                    2239.65,
+                    549.63
+                ],
+                [
+                    2205.48,
+                    1319.84
+                ],
+                [
+                    1966.27,
+                    1322.47
+                ],
+                [
+                    1905.81,
+                    549.63
+                ],
+                [
+                    1929.46,
+                    560.15
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected the Remover tool. Please drag the brush over the pedestrian on the right side of the street who is using a phone to cover them, triggering the auto-removal function.",
+    "modality": "Image"
+}

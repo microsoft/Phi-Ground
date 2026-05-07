@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-5f36",
+    "task": "\u73b0\u5728\u8fd9\u4e2a\u56fe\u7247\u504f\u79bb\u4e86\u753b\u5e03\uff0c\u8bf7\u4f60\u62d6\u52a8\u5927\u7c73\u7684\u7167\u7247\u56de\u5de6\u8fb9\u4f7f\u5f97\u4e0e\u753b\u5e03\u91cd\u53e0",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1110.36,
+                    425.64
+                ],
+                [
+                    1375.33,
+                    425.64
+                ],
+                [
+                    1371.13,
+                    749.49
+                ],
+                [
+                    1108.26,
+                    743.19
+                ],
+                [
+                    1106.16,
+                    436.15
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    651.92,
+                    431.95
+                ],
+                [
+                    1104.05,
+                    434.05
+                ],
+                [
+                    1106.16,
+                    753.7
+                ],
+                [
+                    405.87,
+                    747.39
+                ],
+                [
+                    407.97,
+                    425.64
+                ],
+                [
+                    654.02,
+                    434.05
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "The image is now off the canvas. Please drag the rice photo back to the left so that it overlaps with the canvas.",
+    "modality": "Image"
+}

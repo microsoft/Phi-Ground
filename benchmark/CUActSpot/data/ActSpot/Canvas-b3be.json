@@ -1,0 +1,65 @@
+{
+    "image_id": "Canvas-b3be",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u7ed8\u5236\u4e86\u4e00\u6761\u66f2\u7ebf\u7bad\u5934\uff0c\u73b0\u5728\u9700\u8981\u4f60\u62d6\u52a8\u7bad\u5934\u9876\u70b9\u5230\u542b\"tittle\"\u7684\u6587\u672c\u6846\u7684\u53f3\u4e0a\u89d2\uff08\u6700\u53f3\u7aef\uff09",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    501.63,
+                    228.94
+                ],
+                [
+                    488.08,
+                    188.27
+                ],
+                [
+                    460.96,
+                    193.35
+                ],
+                [
+                    452.49,
+                    232.33
+                ],
+                [
+                    471.13,
+                    237.41
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2087.88,
+                    173.02
+                ],
+                [
+                    2021.79,
+                    188.27
+                ],
+                [
+                    2031.96,
+                    237.41
+                ],
+                [
+                    2098.05,
+                    266.22
+                ],
+                [
+                    2140.42,
+                    201.83
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have drawn a curved arrow in WPS PPT. Please drag the arrow\u2019s vertex to the top-right corner (furthest right point) of the text box containing \u201ctittle.\u201d",
+    "modality": "Canvas"
+}

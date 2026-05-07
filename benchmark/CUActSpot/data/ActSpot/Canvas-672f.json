@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-672f",
+    "task": "\u5047\u8bbe\u5f53\u524d\u5df2\u8fdb\u5165\u5bf9\u8c61\u7f16\u8f91\u72b6\u6001\uff0c\u9009\u4e2d\u8be5\u7bad\u5934\u540e\uff0c\u62d6\u62fd\u53f3\u8fb9\u754c\u4e2d\u70b9\uff08\u5373\u7bad\u5934\u5c16\u5934\uff09\u5411\u53f3\u79fb\u52a8\uff0c\u62c9\u957f\u7bad\u5934\u7684\u6574\u4f53\u957f\u5ea6\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1033.12,
+                    962.38
+                ],
+                [
+                    1019.12,
+                    1035.17
+                ],
+                [
+                    1086.32,
+                    1040.77
+                ],
+                [
+                    1089.11,
+                    965.18
+                ],
+                [
+                    1061.12,
+                    953.98
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1142.31,
+                    875.59
+                ],
+                [
+                    1125.51,
+                    1130.37
+                ],
+                [
+                    2430.21,
+                    1189.16
+                ],
+                [
+                    2458.21,
+                    914.78
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Assuming you are in object editing mode, drag the midpoint on its right boundary (the arrow tip) to the right to extend its overall length.",
+    "modality": "Canvas"
+}

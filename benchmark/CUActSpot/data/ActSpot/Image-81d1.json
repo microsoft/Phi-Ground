@@ -1,0 +1,87 @@
+{
+  "image_id": "Image-81d1",
+  "task": "I have now selected the manual face- and waist-slimming feature. The woman’s face is not symmetrical, so I want you to drag from the inside of her left jawline outward to slightly enlarge the left side of her face.",
+  "polygons": [
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          1425.1,
+          623.67
+        ],
+        [
+          1397.46,
+          567.47
+        ],
+        [
+          1371.66,
+          556.42
+        ],
+        [
+          1366.14,
+          572.08
+        ],
+        [
+          1376.27,
+          606.17
+        ],
+        [
+          1399.3,
+          656.84
+        ],
+        [
+          1425.1,
+          672.5
+        ],
+        [
+          1428.79,
+          640.26
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          1391.93,
+          640.26
+        ],
+        [
+          1365.21,
+          568.39
+        ],
+        [
+          1318.23,
+          556.42
+        ],
+        [
+          1265.71,
+          638.41
+        ],
+        [
+          1349.55,
+          761.87
+        ],
+        [
+          1432.47,
+          708.44
+        ],
+        [
+          1407.6,
+          662.37
+        ],
+        [
+          1399.3,
+          656.84
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

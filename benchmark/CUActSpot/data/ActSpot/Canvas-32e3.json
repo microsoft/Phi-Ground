@@ -1,0 +1,73 @@
+{
+    "image_id": "Canvas-32e3",
+    "task": "\u73b0\u5728\u6211\u9700\u8981\u5728WPS PPT \u4e2d\u901a\u8fc7\u62d6\u52a8\u9009\u4e2dppt\u4e2d\u7684\u542b\u6709\"Life\"\u7684\u90a3\u6bb5\u6587\u5b57\u7684\u6587\u672c\u6846",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1242.22,
+                    622.11
+                ],
+                [
+                    1286.28,
+                    540.77
+                ],
+                [
+                    1174.43,
+                    496.7
+                ],
+                [
+                    857.52,
+                    439.08
+                ],
+                [
+                    920.23,
+                    657.7
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1879.43,
+                    764.47
+                ],
+                [
+                    1850.62,
+                    916.99
+                ],
+                [
+                    2030.26,
+                    1025.45
+                ],
+                [
+                    2204.82,
+                    949.19
+                ],
+                [
+                    2228.54,
+                    691.6
+                ],
+                [
+                    2194.65,
+                    715.32
+                ],
+                [
+                    2003.15,
+                    671.26
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I need to drag to select the text box containing \u201cLife\u201d in a WPS PPT.",
+    "modality": "Canvas"
+}

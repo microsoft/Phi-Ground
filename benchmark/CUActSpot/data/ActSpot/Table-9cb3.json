@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-9cb3",
+    "task": "\u62d6\u52a8\u542b\u6709cat\u7684\u5217\u7684\u8868\u5934\u79fb\u52a8\u5230F\u5217",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    605.01,
+                    174.71
+                ],
+                [
+                    599.93,
+                    234.03
+                ],
+                [
+                    794.82,
+                    242.5
+                ],
+                [
+                    789.73,
+                    166.24
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    952.43,
+                    173.02
+                ],
+                [
+                    947.34,
+                    242.5
+                ],
+                [
+                    1137.15,
+                    242.5
+                ],
+                [
+                    1138.84,
+                    161.15
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the column header containing \u201ccat\u201d to column F.",
+    "modality": "Table"
+}

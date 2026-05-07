@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-4dcf",
+    "task": "\u62d6\u52a8I7\u5355\u5143\u683c\u53f3\u4e0b\u89d2\u5230I-13\u7684\u53f3\u4e0b\u89d2\u6765\u5b9e\u73b0\u5e94\u7528\u516c\u5f0f\u8ba1\u7b97\u5176\u4ed6\u516d\u884c\u7684\u548c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1419.52,
+                    469.62
+                ],
+                [
+                    1416.44,
+                    505.05
+                ],
+                [
+                    1456.49,
+                    508.13
+                ],
+                [
+                    1456.49,
+                    474.24
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1421.06,
+                    694.55
+                ],
+                [
+                    1414.9,
+                    729.99
+                ],
+                [
+                    1456.49,
+                    748.48
+                ],
+                [
+                    1459.57,
+                    700.72
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the lower-right corner of cell I7 down to the lower-right corner of cell I13 to apply the formula and calculate the sums for the other six rows.",
+    "modality": "Table"
+}

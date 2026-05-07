@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-d74f",
+    "task": "\u8fd9\u4e2a\u9752\u6912\u7684\u56fe\u7247\u6321\u4f4f\u4e86\u8239\uff0c\u8bf7\u4f60\u62d6\u52a8\u5b83\u5230\u5de6\u8fb9\u53bb\uff0c\u4e0d\u8981\u6321\u4f4f\u8239\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1022.04,
+                    215.34
+                ],
+                [
+                    1440.53,
+                    213.24
+                ],
+                [
+                    1432.11,
+                    734.77
+                ],
+                [
+                    1013.63,
+                    734.77
+                ],
+                [
+                    1015.73,
+                    202.73
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    422.69,
+                    221.65
+                ],
+                [
+                    849.59,
+                    219.55
+                ],
+                [
+                    954.74,
+                    225.86
+                ],
+                [
+                    946.33,
+                    884.08
+                ],
+                [
+                    382.74,
+                    875.67
+                ],
+                [
+                    420.59,
+                    225.86
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "The image of the green pepper is blocking the boat. Please drag it to the left so it no longer blocks the boat.",
+    "modality": "Image"
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "GUI-a934",
+    "task": "\u62d6\u52a8\u201cAI\u8c37\u6b4c\u641c\u7d22\u9875\u9762\u201d\u5730\u5740\u6846\u5230\u201copenai\u8c37\u6b4c\u641c\u7d22\u201d\u9875\u9762\u5730\u5740\u6846\u4e4b\u540e",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    352.22,
+                    0.0
+                ],
+                [
+                    355.02,
+                    52.94
+                ],
+                [
+                    617.78,
+                    52.94
+                ],
+                [
+                    612.19,
+                    2.63
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1537.47,
+                    5.42
+                ],
+                [
+                    1526.29,
+                    69.72
+                ],
+                [
+                    1780.67,
+                    55.74
+                ],
+                [
+                    2348.14,
+                    50.15
+                ],
+                [
+                    2364.91,
+                    0.0
+                ],
+                [
+                    1635.31,
+                    0.0
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "After dragging the address field of the \u201cAI Google Search\u201d page to the right of the address field of the \u201copenai Google Search\u201d page.",
+    "modality": "GUI"
+}

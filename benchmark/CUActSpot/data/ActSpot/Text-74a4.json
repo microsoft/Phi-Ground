@@ -1,0 +1,55 @@
+{
+  "image_id": "Text-74a4",
+  "task": "Drag the selected text code to the correct position.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1051.23,
+          391.24
+        ],
+        [
+          1051.23,
+          429.29
+        ],
+        [
+          1068.23,
+          430.1
+        ],
+        [
+          1069.04,
+          388.0
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          1036.66,
+          388.0
+        ],
+        [
+          1031.8,
+          431.71
+        ],
+        [
+          1045.56,
+          428.48
+        ],
+        [
+          1049.61,
+          388.0
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

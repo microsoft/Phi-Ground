@@ -1,0 +1,63 @@
+{
+  "image_id": "Text-8651",
+  "task": "Drag the mouse to select the entire paragraph containing “success.”",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          521.97,
+          627.2
+        ],
+        [
+          520.28,
+          596.69
+        ],
+        [
+          488.08,
+          601.78
+        ],
+        [
+          489.77,
+          654.31
+        ],
+        [
+          520.28,
+          650.92
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          837.19,
+          681.43
+        ],
+        [
+          823.63,
+          742.44
+        ],
+        [
+          976.15,
+          750.91
+        ],
+        [
+          1143.93,
+          737.35
+        ],
+        [
+          1125.29,
+          671.26
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

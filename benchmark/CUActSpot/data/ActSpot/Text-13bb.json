@@ -1,0 +1,33 @@
+{
+    "image_id": "Text-13bb",
+    "task": "\u6211\u73b0\u5728\u8981\u5728\u4fee\u6539banana\u5bf9\u5e94\u7684\u503c\uff0c\u9700\u8981\u4f60\u70b9\u51fb\u6570\u5b575\u540e\u9762\u7684\u4f4d\u7f6e\u6765\u8bbe\u7f6e\u5149\u6807",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1213.36,
+                    123.3
+                ],
+                [
+                    1210.93,
+                    160.57
+                ],
+                [
+                    1223.08,
+                    159.76
+                ],
+                [
+                    1222.27,
+                    120.87
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019m about to modify the value for \u201cbanana\u201d; please click just after the number 5 to place the cursor.",
+    "modality": "Text"
+}

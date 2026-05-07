@@ -1,0 +1,79 @@
+{
+  "image_id": "GUI-d089",
+  "task": "Drag the Java17 folder from the active File Explorer window and drop it onto the Data (D:) breadcrumb in the address bar of another File Explorer window to move it to the root of the D: drive.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1268.11,
+          734.92
+        ],
+        [
+          1256.93,
+          782.46
+        ],
+        [
+          2003.59,
+          782.46
+        ],
+        [
+          2003.59,
+          704.16
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          1594.87,
+          583.07
+        ],
+        [
+          1596.98,
+          629.34
+        ],
+        [
+          1716.87,
+          629.34
+        ],
+        [
+          1706.35,
+          570.45
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          1744.21,
+          450.56
+        ],
+        [
+          1740.01,
+          498.93
+        ],
+        [
+          1862.0,
+          496.83
+        ],
+        [
+          1855.69,
+          433.73
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

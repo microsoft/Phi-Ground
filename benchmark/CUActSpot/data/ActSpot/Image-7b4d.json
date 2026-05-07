@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-7b4d",
+    "task": "\u6211\u521b\u5efa\u4e86\u4e00\u4e2a\u5c0f\u592a\u9633\u7684\u56fe\u6848\uff0c\u8bf7\u4f60\u628a\u5b83\u62d6\u52a8\u5230\u8239\u7684\u6b63\u4e0a\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    473.17,
+                    760.01
+                ],
+                [
+                    614.06,
+                    757.91
+                ],
+                [
+                    599.34,
+                    909.32
+                ],
+                [
+                    475.27,
+                    900.91
+                ],
+                [
+                    477.37,
+                    774.73
+                ],
+                [
+                    464.75,
+                    764.21
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1007.32,
+                    520.27
+                ],
+                [
+                    1457.35,
+                    507.65
+                ],
+                [
+                    1446.83,
+                    671.68
+                ],
+                [
+                    994.7,
+                    665.38
+                ],
+                [
+                    1003.11,
+                    532.89
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I created a small sun graphic; please drag it directly above the boat.",
+    "modality": "Image"
+}

@@ -1,0 +1,17 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "InfiGUI-R1-3B",
+    "preset": "infigui_r1_3b_transformers"
+  },
+  "output": {
+    "output_dir": "outputs/infigui_r1_3b_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

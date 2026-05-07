@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-6562",
+    "task": "\u62d6\u52a8\u542b\u6709apple\u7684\u884c\u79fb\u52a8\u52309\u884c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    87.98,
+                    316.98
+                ],
+                [
+                    87.98,
+                    274.23
+                ],
+                [
+                    0.0,
+                    278.65
+                ],
+                [
+                    0.0,
+                    328.78
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    86.5,
+                    610.37
+                ],
+                [
+                    0.0,
+                    608.9
+                ],
+                [
+                    0.0,
+                    558.77
+                ],
+                [
+                    89.45,
+                    564.67
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the row containing \u201capple\u201d to row 9.",
+    "modality": "Table"
+}

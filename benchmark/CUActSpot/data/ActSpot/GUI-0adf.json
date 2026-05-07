@@ -1,0 +1,65 @@
+{
+    "image_id": "GUI-0adf",
+    "task": "\u62d6\u52a8\u6587\u4ef6\u7ba1\u7406\u5668\u7a97\u53e3\u7684\u4e0a\u6cbf\u5230\u6b63\u4e0a\u65b9\uff0c\u4f7f\u5f97\u7a97\u53e3\u7684\u4e0a\u6cbf\u7d27\u8d34\u5c4f\u5e55\u7684\u4e0a\u6cbf",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    29.43,
+                    152.66
+                ],
+                [
+                    1107.68,
+                    156.86
+                ],
+                [
+                    1088.76,
+                    236.73
+                ],
+                [
+                    29.43,
+                    234.63
+                ],
+                [
+                    35.73,
+                    154.76
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    42.04,
+                    34.96
+                ],
+                [
+                    1111.88,
+                    43.36
+                ],
+                [
+                    1135.01,
+                    0.0
+                ],
+                [
+                    44.14,
+                    0.0
+                ],
+                [
+                    39.94,
+                    0.0
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the top edge of the file manager window to the very top so that it is flush with the top edge of the screen.",
+    "modality": "GUI"
+}

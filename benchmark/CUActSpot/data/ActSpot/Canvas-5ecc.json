@@ -1,0 +1,65 @@
+{
+    "image_id": "Canvas-5ecc",
+    "task": "\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u4e00\u4e2a\u7b49\u8170\u68af\u5f62\uff0c\u8bf7\u4f60\u62d6\u52a8\u5b83\u7684\u5de6\u4e0a\u89d2\u9ec4\u989c\u8272\u7684\u89d2\u70b9\uff0c\u7f29\u5c0f\u5176\u4e0a\u5e95\u5230\u539f\u6765\u7684\u4e00\u534a",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    585.48,
+                    630.57
+                ],
+                [
+                    586.44,
+                    671.7
+                ],
+                [
+                    610.35,
+                    653.53
+                ],
+                [
+                    610.35,
+                    623.87
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    634.27,
+                    621.0
+                ],
+                [
+                    616.09,
+                    626.74
+                ],
+                [
+                    602.7,
+                    643.0
+                ],
+                [
+                    626.61,
+                    672.66
+                ],
+                [
+                    644.79,
+                    650.66
+                ],
+                [
+                    641.92,
+                    626.74
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected an isosceles trapezoid in WPS PPT. Please drag the yellow adjustment handle at the top-left corner to reduce the top base to half its original length.",
+    "modality": "Canvas"
+}

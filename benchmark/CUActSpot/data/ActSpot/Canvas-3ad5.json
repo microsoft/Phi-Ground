@@ -1,0 +1,57 @@
+{
+    "image_id": "Canvas-3ad5",
+    "task": "\u5047\u8bbe\u5f53\u524d\u5df2\u9009\u4e2d\u201c\u7ed8\u5236\u6709\u5411\u8fb9\u201d\u5de5\u5177\uff0c\u9700\u8981\u9009\u4e2d\u6b63\u65b9\u5f62\u8fb9\u6846\u4e0a\u7684\u5de6\u4e0a\u89d2\uff0c\u4f5c\u4e3a\u6709\u5411\u7ebf\u6bb5\u7684\u8d77\u70b9\u62d6\u62fd\u5230\u6b63\u65b9\u5f62\u8fb9\u6846\u4e0a\u7684\u53f3\u4e0b\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    372.37,
+                    443.62
+                ],
+                [
+                    361.17,
+                    491.22
+                ],
+                [
+                    419.97,
+                    488.42
+                ],
+                [
+                    417.17,
+                    429.62
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    761.54,
+                    796.39
+                ],
+                [
+                    750.34,
+                    852.39
+                ],
+                [
+                    797.94,
+                    849.59
+                ],
+                [
+                    814.74,
+                    801.99
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Assuming the \u201cDraw Directed Edge\u201d tool is currently selected, select the top-left corner on the square\u2019s border as the starting point of the directed segment and drag it to the bottom-right corner.",
+    "modality": "Canvas"
+}

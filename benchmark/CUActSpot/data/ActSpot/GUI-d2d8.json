@@ -1,0 +1,69 @@
+{
+    "image_id": "GUI-d2d8",
+    "task": "\u62d6\u52a8\u524d\u7f6e\u6807\u7b7e\u9875\u5230\u4e0a\u680f\u5206\u680f\u7684\u6700\u5de6\u8fb9\u957f\u65b9\u5f62\u4e2d",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    719.26,
+                    30.81
+                ],
+                [
+                    724.86,
+                    142.76
+                ],
+                [
+                    797.63,
+                    142.76
+                ],
+                [
+                    797.63,
+                    33.61
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    881.59,
+                    226.72
+                ],
+                [
+                    959.95,
+                    251.9
+                ],
+                [
+                    929.16,
+                    299.48
+                ],
+                [
+                    1083.09,
+                    293.89
+                ],
+                [
+                    2085.02,
+                    293.89
+                ],
+                [
+                    2085.02,
+                    209.92
+                ],
+                [
+                    912.37,
+                    207.13
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the front tab into the leftmost rectangle of the top split pane.",
+    "modality": "GUI"
+}

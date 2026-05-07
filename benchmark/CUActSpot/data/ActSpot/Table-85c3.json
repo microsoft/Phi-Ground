@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-85c3",
+    "task": "\u62d6\u52a8\u9009\u4e2d\u7684\u5355\u5143\u683c\u5230\u540c\u4e00\u884c\u53f3\u8fb9\u4e00\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    516.89,
+                    786.5
+                ],
+                [
+                    521.97,
+                    854.29
+                ],
+                [
+                    686.36,
+                    852.59
+                ],
+                [
+                    679.58,
+                    779.72
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    664.33,
+                    786.5
+                ],
+                [
+                    666.02,
+                    864.46
+                ],
+                [
+                    845.66,
+                    857.68
+                ],
+                [
+                    838.88,
+                    783.11
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the selected cells one cell to the right in the same row.",
+    "modality": "Table"
+}

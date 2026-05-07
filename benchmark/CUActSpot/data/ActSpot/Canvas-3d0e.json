@@ -1,0 +1,69 @@
+{
+    "image_id": "Canvas-3d0e",
+    "task": "\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u4e00\u4e2a\u6587\u672c\u6846\uff0c\u9700\u8981\u4f60\u62d6\u52a8\u5b83\u5230ppt\u7684\u6b63\u4e2d\u5fc3",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    560.95,
+                    657.7
+                ],
+                [
+                    564.34,
+                    905.13
+                ],
+                [
+                    1023.6,
+                    893.27
+                ],
+                [
+                    1026.99,
+                    656.01
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    1381.19,
+                    661.09
+                ],
+                [
+                    1235.44,
+                    579.75
+                ],
+                [
+                    1064.28,
+                    674.65
+                ],
+                [
+                    972.76,
+                    849.2
+                ],
+                [
+                    1254.08,
+                    1016.98
+                ],
+                [
+                    1443.89,
+                    952.58
+                ],
+                [
+                    1477.79,
+                    688.21
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected a text box in WPS PPT; please drag it to the exact center of the slide.",
+    "modality": "Canvas"
+}

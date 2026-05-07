@@ -1,0 +1,61 @@
+{
+    "image_id": "Image-4b9a",
+    "task": "\u73b0\u5728\u6211\u6253\u5f00\u4e86ps\u7684\u56fe\u5c42\u754c\u9762\uff0c\u8bf7\u4f60\u62d6\u52a8layer 0\u5230\u6700\u4e0a\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    2479.28,
+                    456.34
+                ],
+                [
+                    1973.73,
+                    456.34
+                ],
+                [
+                    1978.93,
+                    575.81
+                ],
+                [
+                    2500.06,
+                    567.15
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1946.03,
+                    284.94
+                ],
+                [
+                    1946.03,
+                    411.33
+                ],
+                [
+                    1980.66,
+                    468.46
+                ],
+                [
+                    2510.45,
+                    459.81
+                ],
+                [
+                    2494.87,
+                    265.9
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have opened the layers panel in Photoshop; please drag Layer 0 to the top.",
+    "modality": "Image"
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "Canvas-e641",
+    "task": "\u5c06\u5199\u6709\u201c123\uff0c\u201d\u7684\u6587\u672c\u6846\u62d6\u5230\u4e09\u4e2a\u4e94\u89d2\u661f\u7684\u6b63\u4e2d\u95f4",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1038.86,
+                    457.18
+                ],
+                [
+                    1204.99,
+                    455.08
+                ],
+                [
+                    1200.79,
+                    598.08
+                ],
+                [
+                    1034.65,
+                    600.18
+                ],
+                [
+                    1038.86,
+                    455.08
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    647.71,
+                    705.33
+                ],
+                [
+                    778.09,
+                    701.13
+                ],
+                [
+                    784.4,
+                    810.48
+                ],
+                [
+                    637.2,
+                    820.99
+                ],
+                [
+                    645.61,
+                    705.33
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the text box that reads \"123,\" to the center of the three five-pointed stars.",
+    "modality": "Canvas"
+}

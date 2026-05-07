@@ -1,0 +1,105 @@
+{
+    "image_id": "GUI-6cba",
+    "task": "\u5c06openai\u9875\u9762\u62d6\u52a8\u5230\u684c\u9762\u53f3\u4e0a\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    50.4,
+                    6.85
+                ],
+                [
+                    61.6,
+                    60.05
+                ],
+                [
+                    1189.91,
+                    57.25
+                ],
+                [
+                    1184.31,
+                    0.0
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Banned",
+            "points": [
+                [
+                    305.18,
+                    1.25
+                ],
+                [
+                    305.18,
+                    54.45
+                ],
+                [
+                    355.57,
+                    57.25
+                ],
+                [
+                    361.17,
+                    0.0
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Banned",
+            "points": [
+                [
+                    352.77,
+                    1.25
+                ],
+                [
+                    358.37,
+                    62.85
+                ],
+                [
+                    408.77,
+                    65.65
+                ],
+                [
+                    417.17,
+                    1.25
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R5",
+            "type": "Target",
+            "points": [
+                [
+                    1671.47,
+                    4.05
+                ],
+                [
+                    1668.67,
+                    90.85
+                ],
+                [
+                    2550.6,
+                    113.25
+                ],
+                [
+                    2550.6,
+                    4.05
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the OpenAI page to the upper-right corner of the desktop.",
+    "modality": "GUI"
+}

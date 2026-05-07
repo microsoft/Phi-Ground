@@ -1,0 +1,41 @@
+{
+    "image_id": "Canvas-6c67",
+    "task": "\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u4e00\u4e2a\u5706\u5f62\uff0c\u8bf7\u4f60\u9009\u4e2d\u53e6\u5916\u4e00\u4e2a\u516d\u8fb9\u5f62",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    899.89,
+                    698.38
+                ],
+                [
+                    796.51,
+                    911.91
+                ],
+                [
+                    906.67,
+                    1105.11
+                ],
+                [
+                    1191.38,
+                    1098.33
+                ],
+                [
+                    1294.76,
+                    889.88
+                ],
+                [
+                    1193.07,
+                    689.9
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected a circle in WPS PPT; please select the other hexagon.",
+    "modality": "Canvas"
+}

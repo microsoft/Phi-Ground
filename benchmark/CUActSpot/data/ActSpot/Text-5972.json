@@ -1,0 +1,55 @@
+{
+  "image_id": "Text-5972",
+  "task": "Drag the selected text or code to the correct position.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1027.36,
+          83.67
+        ],
+        [
+          1023.89,
+          132.26
+        ],
+        [
+          1103.72,
+          127.05
+        ],
+        [
+          1098.52,
+          81.93
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          902.42,
+          114.91
+        ],
+        [
+          898.94,
+          182.59
+        ],
+        [
+          1010.01,
+          173.91
+        ],
+        [
+          1006.54,
+          106.23
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

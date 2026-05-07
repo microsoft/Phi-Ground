@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-7973",
+    "task": "\u62d6\u52a8apple\u5355\u5143\u683c\u7684\u53f3\u4e0b\u89d2\u5411\u4e0b\u65b9\u4e00\u683c\u6765\u5b9e\u73b0\u590d\u5236\u5355\u5143\u683c\u5230\u5176\u4e0b\u65b9\u4e00\u4e2a",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    664.33,
+                    972.92
+                ],
+                [
+                    662.63,
+                    1000.03
+                ],
+                [
+                    688.05,
+                    998.34
+                ],
+                [
+                    691.44,
+                    976.31
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    666.28,
+                    1009.59
+                ],
+                [
+                    663.41,
+                    1033.5
+                ],
+                [
+                    692.11,
+                    1039.24
+                ],
+                [
+                    698.81,
+                    1011.5
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the bottom-right corner of the apple cell down one cell to copy it to the cell below.",
+    "modality": "Table"
+}

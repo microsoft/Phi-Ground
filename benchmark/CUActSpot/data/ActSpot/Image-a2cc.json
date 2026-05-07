@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-a2cc",
+    "task": "\u62d6\u52a8\u5f53\u524d\u97f3\u91cf\u7684\u63a7\u4ef6\u5230\u767e\u5206\u4e4b\u767e\uff08\u6700\u4e0a\u65b9\uff09",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1821.16,
+                    985.03
+                ],
+                [
+                    1875.84,
+                    982.92
+                ],
+                [
+                    1875.84,
+                    1014.47
+                ],
+                [
+                    1829.57,
+                    1014.47
+                ],
+                [
+                    1827.47,
+                    991.33
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1829.57,
+                    881.98
+                ],
+                [
+                    1888.46,
+                    890.39
+                ],
+                [
+                    1882.15,
+                    934.55
+                ],
+                [
+                    1837.98,
+                    936.66
+                ],
+                [
+                    1831.68,
+                    917.73
+                ],
+                [
+                    1829.57,
+                    894.6
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the current volume control to 100% (the topmost position).",
+    "modality": "Image"
+}

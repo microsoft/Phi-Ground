@@ -1,0 +1,37 @@
+{
+    "image_id": "GUI-a537",
+    "task": "\u70b9\u51fb\u9ed1\u8272\u884c\u674e\u7bb1\u9644\u8fd1\u7684\u201csee more\u201d\u6309\u94ae",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    90.38,
+                    1052.45
+                ],
+                [
+                    193.37,
+                    1050.35
+                ],
+                [
+                    189.17,
+                    1109.2
+                ],
+                [
+                    81.97,
+                    1115.51
+                ],
+                [
+                    86.18,
+                    1052.45
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Click the \u201csee more\u201d button next to the black suitcase.",
+    "modality": "GUI"
+}

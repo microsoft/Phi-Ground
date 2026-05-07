@@ -1,0 +1,65 @@
+{
+    "image_id": "Canvas-86ce",
+    "task": "\u5047\u8bbe\u5f53\u524d\u5df2\u9009\u4e2d\u201c\u7ed8\u5236\u6709\u5411\u8fb9\u201d\u5de5\u5177\uff0c\u4ece\u5de6\u4fa7\u661f\u5f62\u8f6e\u5ed3\u6700\u4e0a\u65b9\u7684\u9876\u70b9\u51fa\u53d1\uff0c\u6309\u4f4f\u5e76\u62d6\u62fd\u5230\u53f3\u4fa7\u661f\u5f62\u8f6e\u5ed3\u5de6\u4e0a\u4fa7\u8fb9\u754c\u7684\u8fde\u63a5\u70b9\uff0c\u5b8c\u6210\u4e00\u6761\u4ece\u5de6\u5230\u53f3\u7684\u6709\u5411\u8fb9\u7ed8\u5236\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    767.14,
+                    442.12
+                ],
+                [
+                    755.94,
+                    506.51
+                ],
+                [
+                    806.34,
+                    526.11
+                ],
+                [
+                    865.13,
+                    495.32
+                ],
+                [
+                    817.54,
+                    444.92
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1623.87,
+                    548.51
+                ],
+                [
+                    1609.87,
+                    604.51
+                ],
+                [
+                    1635.07,
+                    624.11
+                ],
+                [
+                    1705.07,
+                    593.31
+                ],
+                [
+                    1674.27,
+                    534.51
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Assuming the \u201cDraw Directed Edge\u201d tool is selected, press and drag from the topmost vertex of the left star outline to the connection point on the upper-left edge of the right star outline to complete a directed edge from left to right.",
+    "modality": "Canvas"
+}

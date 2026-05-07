@@ -1,0 +1,31 @@
+{
+  "image_id": "Text-2cdb",
+  "task": "I now need to add another method to the class; please click below the add function to position the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          814.55,
+          308.97
+        ],
+        [
+          826.7,
+          387.12
+        ],
+        [
+          1102.85,
+          388.86
+        ],
+        [
+          1095.9,
+          303.76
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

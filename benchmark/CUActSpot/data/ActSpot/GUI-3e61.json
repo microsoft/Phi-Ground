@@ -1,0 +1,37 @@
+{
+    "image_id": "GUI-3e61",
+    "task": "\u70b9\u51fb\u53f3\u65b9\u7684\u6309\u94ae\u6765\u6253\u5f00\u201cShow me suggestions for using mobile device with Windows\u201d",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    936.45,
+                    414.45
+                ],
+                [
+                    995.61,
+                    417.86
+                ],
+                [
+                    993.33,
+                    454.26
+                ],
+                [
+                    937.59,
+                    450.85
+                ],
+                [
+                    937.59,
+                    414.45
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Click the button on the right to open \u201cShow me suggestions for using mobile device with Windows.\u201d",
+    "modality": "GUI"
+}

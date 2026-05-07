@@ -1,0 +1,39 @@
+{
+  "image_id": "Text-a0cd",
+  "task": "I need to insert text. Please click to set the cursor between \"Examiner's Manual, \" and \"50 examiner/record forms\".",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          767.58,
+          781.04
+        ],
+        [
+          822.26,
+          781.04
+        ],
+        [
+          818.05,
+          818.89
+        ],
+        [
+          765.48,
+          820.99
+        ],
+        [
+          763.37,
+          806.27
+        ],
+        [
+          767.58,
+          783.14
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

@@ -1,0 +1,73 @@
+{
+    "image_id": "Canvas-d26b",
+    "task": "\u6211\u5728diagrams\u6587\u6863\u4e2d\u9700\u8981\u4f60\u62d6\u52a8\u8282\u70b93\u7684\u4f4d\u7f6e\uff0c\u79fb\u52a8\u5230\u753b\u5e03\u6700\u53f3\u8fb9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1259.68,
+                    214.95
+                ],
+                [
+                    1271.77,
+                    382.56
+                ],
+                [
+                    1394.46,
+                    380.83
+                ],
+                [
+                    1410.01,
+                    294.43
+                ],
+                [
+                    1396.18,
+                    209.76
+                ],
+                [
+                    1332.25,
+                    202.85
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1598.35,
+                    195.94
+                ],
+                [
+                    1486.04,
+                    208.03
+                ],
+                [
+                    1489.49,
+                    367.01
+                ],
+                [
+                    1548.24,
+                    422.3
+                ],
+                [
+                    1606.99,
+                    348.0
+                ],
+                [
+                    1610.45,
+                    259.87
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "In the diagrams document, I need you to drag node 3 to the far right of the canvas.",
+    "modality": "Canvas"
+}

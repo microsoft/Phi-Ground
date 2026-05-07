@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-ce95",
+    "task": "\u73b0\u5728\u6211\u5728PS\u4e2d\u6253\u5f00\u4e86\u989c\u8272\u66f2\u7ebf\u754c\u9762\uff0c\u9700\u8981\u4f60\u66f2\u7ebf\u4e0a\u53f3\u4e0a\u65b9\u7684\u5c0f\u5706\u70b9\u62d6\u52a8\u5230\u5f53\u524d\u9ad8\u5ea6\u7684\u4e00\u534a",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    2384.72,
+                    616.04
+                ],
+                [
+                    2388.17,
+                    676.56
+                ],
+                [
+                    2436.59,
+                    667.92
+                ],
+                [
+                    2434.87,
+                    609.12
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2395.09,
+                    783.78
+                ],
+                [
+                    2382.99,
+                    842.58
+                ],
+                [
+                    2422.76,
+                    852.95
+                ],
+                [
+                    2450.43,
+                    823.55
+                ],
+                [
+                    2441.78,
+                    778.59
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have the Curves adjustment panel open in Photoshop; please drag the small dot at the top right of the curve down to half its current height.",
+    "modality": "Canvas"
+}

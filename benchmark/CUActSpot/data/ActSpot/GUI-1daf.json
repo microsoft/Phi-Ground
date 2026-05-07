@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-1daf",
+    "task": "\u9009\u62e9\u52c7\u58eb\u961f\u548c\u9e48\u9e55\u961f\u90a3\u573a\u6bd4\u8d5b\u5e76\u70b9\u51fb\u52c7\u58eb\u961f\u7684\u5177\u4f53\u7684\u5206\u6570",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1465.62,
+                    208.24
+                ],
+                [
+                    1477.09,
+                    256.05
+                ],
+                [
+                    1553.59,
+                    248.4
+                ],
+                [
+                    1545.94,
+                    194.86
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Select the game between the Warriors and the Hawks and click on the Warriors\u2019 specific score.",
+    "modality": "GUI"
+}

@@ -1,0 +1,77 @@
+{
+    "image_id": "GUI-4969",
+    "task": "\u6211\u60f3\u65cb\u8f6c\u8fd9\u4e2a\u7167\u724790\u5ea6\uff0c\u8bf7\u5e2e\u6211\u628a\u65cb\u8f6c\u7684\u62d6\u62fd\u6761\u62c9\u81f3\u6700\u53f3\u4fa7\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    304.93,
+                    617.98
+                ],
+                [
+                    357.5,
+                    623.24
+                ],
+                [
+                    360.13,
+                    686.32
+                ],
+                [
+                    310.19,
+                    704.73
+                ],
+                [
+                    273.38,
+                    665.3
+                ],
+                [
+                    297.04,
+                    623.24
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    417.96,
+                    623.24
+                ],
+                [
+                    470.54,
+                    620.61
+                ],
+                [
+                    473.17,
+                    678.44
+                ],
+                [
+                    446.88,
+                    707.35
+                ],
+                [
+                    417.96,
+                    694.21
+                ],
+                [
+                    412.71,
+                    636.38
+                ],
+                [
+                    412.71,
+                    617.98
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I want to rotate this photo by 90 degrees. Please drag the rotation slider all the way to the right.",
+    "modality": "GUI"
+}

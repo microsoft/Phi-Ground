@@ -1,0 +1,65 @@
+{
+    "image_id": "Canvas-637f",
+    "task": "\u73b0\u5728\u6211\u9700\u8981\u5728WPS PPT \u4e2d\u901a\u8fc7\u62d6\u52a8\u9009\u4e2dppt\u4e2d\u7684\u56db\u4e2a\u77e9\u5f62",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    544.0,
+                    611.95
+                ],
+                [
+                    552.47,
+                    266.22
+                ],
+                [
+                    320.3,
+                    245.89
+                ],
+                [
+                    255.9,
+                    645.84
+                ],
+                [
+                    482.99,
+                    652.62
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1638.78,
+                    1186.45
+                ],
+                [
+                    1616.75,
+                    1183.06
+                ],
+                [
+                    1609.97,
+                    1398.29
+                ],
+                [
+                    2086.19,
+                    1399.98
+                ],
+                [
+                    2065.85,
+                    1127.14
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Now I need to select four rectangles in WPS PPT by dragging.",
+    "modality": "Canvas"
+}

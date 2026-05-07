@@ -1,0 +1,55 @@
+{
+  "image_id": "GUI-03d7",
+  "task": "Drag the video progress bar to around 2 minutes and 40 seconds.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          257.58,
+          1165.46
+        ],
+        [
+          251.98,
+          1227.06
+        ],
+        [
+          330.37,
+          1243.86
+        ],
+        [
+          335.97,
+          1165.46
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          1678.39,
+          1136.5
+        ],
+        [
+          1682.6,
+          1235.47
+        ],
+        [
+          1920.56,
+          1220.73
+        ],
+        [
+          1937.41,
+          1140.71
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

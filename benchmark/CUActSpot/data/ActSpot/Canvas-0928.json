@@ -1,0 +1,71 @@
+{
+  "image_id": "Canvas-0928",
+  "task": "There are currently two key points on the color curve. Please drag the upper key point so that it is on the same horizontal line as the lower one.",
+  "polygons": [
+    {
+      "id": "R6",
+      "type": "Target",
+      "points": [
+        [
+          404.45,
+          535.39
+        ],
+        [
+          395.07,
+          546.11
+        ],
+        [
+          407.8,
+          558.17
+        ],
+        [
+          419.19,
+          550.13
+        ],
+        [
+          415.17,
+          536.06
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R7",
+      "type": "Target",
+      "points": [
+        [
+          389.71,
+          642.6
+        ],
+        [
+          370.28,
+          655.33
+        ],
+        [
+          376.98,
+          670.74
+        ],
+        [
+          412.49,
+          680.12
+        ],
+        [
+          440.63,
+          670.74
+        ],
+        [
+          440.63,
+          645.95
+        ],
+        [
+          420.53,
+          639.25
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

@@ -1,0 +1,76 @@
+{
+  "image_id": "Canvas-011a",
+  "task": "我在飞书流程图文档中需要你拖动Start节点的位置，移动到start连接的第一个Process节点的正左边",
+  "task_en": "I need you to drag the Start node in the Feishu flowchart document and move it to the immediate left of the first Process node connected to Start.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1626.7,
+          645.65
+        ],
+        [
+          1512.85,
+          647.21
+        ],
+        [
+          1506.61,
+          673.72
+        ],
+        [
+          1519.09,
+          729.87
+        ],
+        [
+          1636.06,
+          729.87
+        ],
+        [
+          1643.86,
+          673.72
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          614.55,
+          725.19
+        ],
+        [
+          614.55,
+          639.41
+        ],
+        [
+          552.17,
+          616.02
+        ],
+        [
+          173.2,
+          601.99
+        ],
+        [
+          79.63,
+          703.36
+        ],
+        [
+          121.74,
+          759.5
+        ],
+        [
+          600.52,
+          750.14
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

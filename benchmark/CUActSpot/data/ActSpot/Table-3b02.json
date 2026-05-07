@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-3b02",
+    "task": "\u62d6\u52a8\u542b\u6709apple\u7684\u5217\u79fb\u52a8\u5230F\u5217",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    589.25,
+                    230.0
+                ],
+                [
+                    592.2,
+                    288.97
+                ],
+                [
+                    779.44,
+                    290.44
+                ],
+                [
+                    761.75,
+                    212.3
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    937.19,
+                    230.0
+                ],
+                [
+                    937.19,
+                    294.87
+                ],
+                [
+                    1145.07,
+                    288.97
+                ],
+                [
+                    1131.8,
+                    230.0
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the columns containing \u201capple\u201d to column F.",
+    "modality": "Table"
+}

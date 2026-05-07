@@ -1,0 +1,55 @@
+{
+  "image_id": "Image-55c4",
+  "task": "Currently, girl.jpg is on the fourth layer; please drag it to the second layer.",
+  "polygons": [
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          1659.23,
+          949.27
+        ],
+        [
+          1659.23,
+          1006.05
+        ],
+        [
+          1915.79,
+          999.75
+        ],
+        [
+          1917.9,
+          949.27
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          1665.54,
+          869.36
+        ],
+        [
+          1665.54,
+          926.14
+        ],
+        [
+          1917.9,
+          917.73
+        ],
+        [
+          1917.9,
+          869.36
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

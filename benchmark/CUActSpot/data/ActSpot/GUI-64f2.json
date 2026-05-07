@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-64f2",
+    "task": "\u5173\u95ed\u5f53\u524d\u6807\u7b7e\u9875",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    121.35,
+                    0.0
+                ],
+                [
+                    112.11,
+                    57.68
+                ],
+                [
+                    169.86,
+                    57.68
+                ],
+                [
+                    165.24,
+                    0.0
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Close the current tab.",
+    "modality": "GUI"
+}

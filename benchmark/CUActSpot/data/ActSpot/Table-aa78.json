@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-aa78",
+    "task": "\u62d6\u52a8\u9009\u4e2d\u7684\u5355\u5143\u683c\u8986\u76d6banana\u6240\u5728\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    423.39,
+                    513.98
+                ],
+                [
+                    429.59,
+                    563.61
+                ],
+                [
+                    621.9,
+                    562.06
+                ],
+                [
+                    612.6,
+                    506.22
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    604.84,
+                    510.88
+                ],
+                [
+                    607.95,
+                    565.16
+                ],
+                [
+                    804.91,
+                    565.16
+                ],
+                [
+                    795.6,
+                    503.12
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the selected cells to overwrite the cell containing \u201cbanana.\u201d",
+    "modality": "Table"
+}

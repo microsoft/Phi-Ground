@@ -1,0 +1,73 @@
+{
+    "image_id": "GUI-54c3",
+    "task": "\u62d6\u52a8\u89c6\u9891\u64ad\u653e\u5668\u7684\u5706\u5f62\u7684\u8fdb\u5ea6\u6761\uff0c\u5207\u6362\u5230\u5927\u81f4\u4e2d\u95f4\u7684\u4f4d\u7f6e",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    132.49,
+                    1008.16
+                ],
+                [
+                    222.91,
+                    1003.95
+                ],
+                [
+                    208.19,
+                    1085.97
+                ],
+                [
+                    117.77,
+                    1088.07
+                ],
+                [
+                    126.18,
+                    1001.85
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    948.43,
+                    991.33
+                ],
+                [
+                    1043.07,
+                    1001.85
+                ],
+                [
+                    1038.86,
+                    1100.69
+                ],
+                [
+                    912.68,
+                    1117.51
+                ],
+                [
+                    881.14,
+                    1100.69
+                ],
+                [
+                    900.07,
+                    985.03
+                ],
+                [
+                    952.64,
+                    1006.05
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the circular progress bar of the video player to approximately the middle position.",
+    "modality": "GUI"
+}

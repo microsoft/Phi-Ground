@@ -1,0 +1,27 @@
+# Core requirements shared by every CUActSpot evaluation run.
+# Backend-specific extras live in:
+#   - requirements-qwen3vl.txt   (Models built on the Qwen3-VL backbone: GUI-Owl, EvoCUA)
+#   - requirements-phi-ground.txt (Phi-Ground family)
+
+Pillow>=10.0.0
+tqdm>=4.65.0
+requests>=2.31.0
+numpy>=1.24.0
+
+# Used by the OpenAI-compatible API backend and the GPT-5.4 Azure backend.
+openai>=1.40.0
+azure-identity>=1.16.0
+
+# Qwen2-VL / Qwen2.5-VL family models (UI-TARS, OS-Atlas-7B, UGround, GTA1,
+# OpenCUA, UI-Venus, SE-GUI, GUI-G2, InfiGUI-{R1,G1}, MAI-UI-2B, MAI-UI-8B).
+# Pin to the last release that still carries Qwen2VL / Qwen2_5_VL classes used
+# by these checkpoints.
+transformers>=4.46.0,<4.55.0
+torch>=2.1.0
+accelerate>=0.30.0
+qwen-vl-utils>=0.0.10
+
+# vLLM is required by every "*_vllm" preset (Phi-Ground, OpenCUA via vLLM, etc.).
+# The pinned version matches the Qwen2.5-VL stack above; install the extras
+# files below if you need the Qwen3-VL-backbone or Phi-Ground-specific stack.
+vllm>=0.6.3

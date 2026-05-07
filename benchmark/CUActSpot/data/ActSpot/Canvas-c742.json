@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-c742",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u6709\u5411\u7bad\u5934\u5de5\u5177\uff0c\u9700\u8981\u62d6\u52a8\u6b63\u5728\u7f16\u8f91\u7684ppt\u9875\u4e2d\u5de6\u8fb9\u7684\u77e9\u5f62\u53f3\u4e0a\u89d2\u70b9\u5230\u53f3\u8fb9\u4e09\u89d2\u5f62\u7684\u4e0a\u9876\u70b9\uff0c\u5b8c\u6210\u7bad\u5934\u7684\u7ed8\u5236",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    993.91,
+                    680.97
+                ],
+                [
+                    994.78,
+                    713.14
+                ],
+                [
+                    1032.18,
+                    713.14
+                ],
+                [
+                    1030.44,
+                    671.4
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    1631.37,
+                    692.27
+                ],
+                [
+                    1601.8,
+                    694.01
+                ],
+                [
+                    1603.54,
+                    718.36
+                ],
+                [
+                    1626.15,
+                    721.84
+                ],
+                [
+                    1640.94,
+                    706.19
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019ve selected the directed arrow tool in WPS PPT and need to drag the upper-right corner of the left rectangle on the current slide to the top vertex of the right triangle to complete the arrow.",
+    "modality": "Canvas"
+}

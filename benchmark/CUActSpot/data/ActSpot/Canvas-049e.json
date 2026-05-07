@@ -1,0 +1,57 @@
+{
+    "image_id": "Canvas-049e",
+    "task": "\u70b9\u51fb\u9009\u4e2d\u4f4d\u4e8e\u524d\u666f\u3001\u8986\u76d6\u5728\u6b63\u65b9\u5f62\u5185\u7684\u5706\u5f62\u5bf9\u8c61\u56fe\u5c42\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    983.69,
+                    692.57
+                ],
+                [
+                    941.89,
+                    759.45
+                ],
+                [
+                    972.54,
+                    815.19
+                ],
+                [
+                    1044.99,
+                    859.77
+                ],
+                [
+                    1162.03,
+                    856.99
+                ],
+                [
+                    1217.77,
+                    792.89
+                ],
+                [
+                    1226.13,
+                    700.93
+                ],
+                [
+                    1167.61,
+                    667.49
+                ],
+                [
+                    1005.98,
+                    667.49
+                ],
+                [
+                    989.26,
+                    689.79
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Click to select the circular object layer in the foreground that covers the inside of the square.",
+    "modality": "Canvas"
+}

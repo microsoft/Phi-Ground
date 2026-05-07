@@ -1,0 +1,39 @@
+{
+  "image_id": "Text-9e73",
+  "task": "To insert text, click in the blank space to the right of “## INSTRUCTIONS FOR AI ASSISTANTS” to position the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          337.22,
+          686.54
+        ],
+        [
+          408.94,
+          686.54
+        ],
+        [
+          397.23,
+          723.13
+        ],
+        [
+          321.11,
+          723.13
+        ],
+        [
+          324.04,
+          698.25
+        ],
+        [
+          343.07,
+          688.0
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

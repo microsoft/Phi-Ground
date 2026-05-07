@@ -1,0 +1,39 @@
+{
+  "image_id": "Text-1ecc",
+  "task": "Click once at the position before \"and the people\" to set the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1211.25,
+          626.96
+        ],
+        [
+          1211.25,
+          599.18
+        ],
+        [
+          1192.73,
+          598.02
+        ],
+        [
+          1189.26,
+          636.22
+        ],
+        [
+          1192.73,
+          650.11
+        ],
+        [
+          1210.1,
+          643.17
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

@@ -1,0 +1,57 @@
+{
+    "image_id": "Image-021e",
+    "task": "\u5728ps\u4e2d\u62d6\u52a8\u5c0f\u9e7f\u56fe\u7247\u81f4\u900f\u660e\u753b\u5e03\u7684\u5de6\u4e0a\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1188.29,
+                    564.19
+                ],
+                [
+                    1184.82,
+                    893.79
+                ],
+                [
+                    1419.01,
+                    886.85
+                ],
+                [
+                    1394.73,
+                    557.25
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    882.98,
+                    120.1
+                ],
+                [
+                    879.51,
+                    432.35
+                ],
+                [
+                    1129.31,
+                    447.96
+                ],
+                [
+                    1111.97,
+                    104.49
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "In Photoshop, drag the deer image to the upper-left corner of the transparent canvas.",
+    "modality": "Image"
+}

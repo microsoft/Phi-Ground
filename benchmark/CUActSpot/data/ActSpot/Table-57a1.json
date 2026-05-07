@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-57a1",
+    "task": "\u62d6\u52a8banana\u5355\u5143\u683c\u7684\u53f3\u4e0b\u89d2\u6765\u590d\u5236\u5355\u5143\u683c\u76f4\u5230D20\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    776.72,
+                    581.0
+                ],
+                [
+                    785.2,
+                    608.54
+                ],
+                [
+                    810.62,
+                    601.13
+                ],
+                [
+                    804.26,
+                    570.41
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    766.85,
+                    937.17
+                ],
+                [
+                    765.3,
+                    971.29
+                ],
+                [
+                    822.68,
+                    983.7
+                ],
+                [
+                    818.03,
+                    940.28
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the bottom-right corner of the \"banana\" cell to copy it down to cell D20.",
+    "modality": "Table"
+}

@@ -1,0 +1,81 @@
+{
+    "image_id": "Canvas-b6f9",
+    "task": "\u6211\u5728\u98de\u4e66\u6d41\u7a0b\u56fe\u6587\u6863\u4e2d\u9700\u8981\u4f60\u62d6\u52a8End\u8282\u70b9\u7684\u4f4d\u7f6e\uff0c\u79fb\u52a8\u5230Decision\u8282\u70b9\u6b63\u4e0a\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1498.82,
+                    639.41
+                ],
+                [
+                    1391.21,
+                    640.97
+                ],
+                [
+                    1381.85,
+                    697.12
+                ],
+                [
+                    1403.68,
+                    726.75
+                ],
+                [
+                    1494.14,
+                    726.75
+                ],
+                [
+                    1526.89,
+                    678.4
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    993.52,
+                    620.7
+                ],
+                [
+                    926.46,
+                    644.09
+                ],
+                [
+                    837.57,
+                    606.66
+                ],
+                [
+                    831.33,
+                    455.39
+                ],
+                [
+                    825.09,
+                    99.81
+                ],
+                [
+                    904.63,
+                    29.63
+                ],
+                [
+                    1007.56,
+                    60.82
+                ],
+                [
+                    1006.0,
+                    548.96
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Please drag the End node in the Feishu flowchart document and place it directly above the Decision node.",
+    "modality": "Canvas"
+}

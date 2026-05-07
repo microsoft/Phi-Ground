@@ -1,0 +1,69 @@
+{
+    "image_id": "Text-f92f",
+    "task": "\u8bf7\u7528\u9f20\u6807\u62d6\u52a8\u6211\u76ee\u524d\u5df2\u7ecf\u9009\u4e2d\u7684\u6587\u672c\u5230\u201cAges\uff1a7-0\u2026\"\u4e0a\u65b9\u7684\u7a7a\u767d\u5904",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    273.38,
+                    873.57
+                ],
+                [
+                    1215.51,
+                    881.98
+                ],
+                [
+                    1215.51,
+                    978.72
+                ],
+                [
+                    288.11,
+                    989.23
+                ],
+                [
+                    283.9,
+                    871.47
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    300.72,
+                    568.64
+                ],
+                [
+                    1175.55,
+                    560.23
+                ],
+                [
+                    1240.74,
+                    608.6
+                ],
+                [
+                    1226.02,
+                    669.58
+                ],
+                [
+                    302.83,
+                    621.21
+                ],
+                [
+                    311.24,
+                    566.54
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Please use the mouse to drag the text I have currently selected to the blank space above \u201cAges: 7-0\u2026\u201d.",
+    "modality": "Text"
+}

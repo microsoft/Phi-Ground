@@ -1,0 +1,52 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "OS-Atlas-Base-4B",
+    "backend": {
+      "target": "openai_compatible_api",
+      "kwargs": {
+        "endpoint": "http://127.0.0.1:8000/v1/chat/completions",
+        "model": "os-atlas-4b",
+        "api_key": "EMPTY",
+        "timeout": 300.0
+      }
+    },
+    "adapter": {
+      "target": "composable_adapter"
+    },
+    "prompt_builder": {
+      "target": "chat_messages_prompt_builder",
+      "kwargs": {
+        "user_template": "In the screenshot of this web page, please give me the coordinates of the element I want to click on according to my instructions (with point).\n{instruction}"
+      }
+    },
+    "image_preprocessor": {
+      "target": "identity_image_preprocessor"
+    },
+    "parser": {
+      "target": "regex_coordinate_parser"
+    },
+    "transformer": {
+      "target": "coordinate_space_transformer",
+      "kwargs": {
+        "source_width": 1000,
+        "source_height": 1000,
+        "clip_to_image": true
+      }
+    },
+    "generation": {
+      "temperature": 0.0,
+      "max_tokens": 256
+    }
+  },
+  "output": {
+    "output_dir": "outputs/os_atlas_4b_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

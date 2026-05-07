@@ -1,0 +1,57 @@
+{
+    "image_id": "Image-ef6f",
+    "task": "\u73b0\u5728ps\u4e2d\u6709\u4e00\u9876\u5c0f\u5e3d\u5b50\uff0c\u8bf7\u4f60\u62d6\u52a8\u4ed6\u79fb\u52a8\u5230\u5c0f\u86c7\u7684\u5934\u4e0a\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    823.47,
+                    628.05
+                ],
+                [
+                    813.09,
+                    814.89
+                ],
+                [
+                    999.93,
+                    799.32
+                ],
+                [
+                    993.01,
+                    615.94
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1205.8,
+                    200.74
+                ],
+                [
+                    1178.12,
+                    474.08
+                ],
+                [
+                    1451.46,
+                    510.41
+                ],
+                [
+                    1513.74,
+                    216.31
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "In Photoshop, drag the small hat and place it above the little snake\u2019s head.",
+    "modality": "Image"
+}

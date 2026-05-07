@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-d8e5",
+    "task": "\u5173\u95ed\u201dNBA-Google\u641c\u7d22\u201c\u7f51\u9875",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    2100.97,
+                    131.86
+                ],
+                [
+                    2085.69,
+                    200.59
+                ],
+                [
+                    2159.51,
+                    192.95
+                ],
+                [
+                    2169.69,
+                    129.32
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Close the \"NBA-Google Search\" webpage.",
+    "modality": "GUI"
+}

@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-4bdf",
+    "task": "\u62d6\u52a8\u89c6\u9891\u7ea2\u8272\u5706\u5f62\u7684\u8fdb\u5ea6\u6761\uff0c\u5207\u6362\u5230\u89c6\u9891\u603b\u65f6\u957f\u768480%\u5de6\u53f3",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    304.93,
+                    846.23
+                ],
+                [
+                    389.05,
+                    863.05
+                ],
+                [
+                    380.64,
+                    915.63
+                ],
+                [
+                    328.06,
+                    917.73
+                ],
+                [
+                    304.93,
+                    848.33
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1009.42,
+                    842.02
+                ],
+                [
+                    1209.2,
+                    854.64
+                ],
+                [
+                    1211.3,
+                    915.63
+                ],
+                [
+                    1074.61,
+                    934.55
+                ],
+                [
+                    992.6,
+                    907.22
+                ],
+                [
+                    1011.52,
+                    846.23
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the red circular progress handle to about 80% of the video\u2019s total duration.",
+    "modality": "Image"
+}

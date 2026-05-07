@@ -1,0 +1,93 @@
+{
+    "image_id": "Canvas-2d7d",
+    "task": "\u73b0\u5728\u6211\u5728PS\u4e2d\u6253\u5f00\u4e86\u989c\u8272\u66f2\u7ebf\u754c\u9762\uff0c\u9700\u8981\u4f60\u62d6\u52a8\u9f20\u6807\u7ed8\u5236\u4e00\u6761\u4ece\u5de6\u4e0b\u89d2\u5f00\u59cb\u5230\u53f3\u4e0a\u65b9\uff0c\u5e76\u6574\u4f53\u5728\u5f53\u524d\u66f2\u7ebf\u4e0a\u65b9\u7684\u66f2\u7ebf",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2051.73,
+                    639.64
+                ],
+                [
+                    2050.01,
+                    930.29
+                ],
+                [
+                    2127.41,
+                    926.85
+                ],
+                [
+                    2380.22,
+                    689.52
+                ],
+                [
+                    2215.12,
+                    610.41
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    2354.42,
+                    598.37
+                ],
+                [
+                    2318.3,
+                    703.28
+                ],
+                [
+                    2424.93,
+                    730.79
+                ],
+                [
+                    2464.49,
+                    682.64
+                ],
+                [
+                    2450.73,
+                    577.73
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R4",
+            "type": "Target",
+            "points": [
+                [
+                    2075.81,
+                    907.93
+                ],
+                [
+                    1982.94,
+                    935.45
+                ],
+                [
+                    2008.74,
+                    1035.2
+                ],
+                [
+                    2130.84,
+                    1042.08
+                ],
+                [
+                    2136.0,
+                    909.65
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have the Curves interface open in Photoshop and need you to drag the mouse to draw a curve from the bottom-left corner to the top-right corner, positioned entirely above the existing curve.",
+    "modality": "Canvas"
+}

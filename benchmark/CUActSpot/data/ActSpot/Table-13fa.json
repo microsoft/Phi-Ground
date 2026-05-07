@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-13fa",
+    "task": "\u62d6\u52a8\u6240\u9009\u4e2d\u8868\u683c\u7684\u884c\u5934\u7684\u4e0b\u8fb9\u754c\uff0c\u4f7f\u8be5\u884c\u5bbd\u5ea6\u53d8\u4e3a\u539f\u6765\u4e24\u500d",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    0.0,
+                    185.67
+                ],
+                [
+                    0.0,
+                    206.71
+                ],
+                [
+                    62.06,
+                    205.09
+                ],
+                [
+                    58.01,
+                    179.19
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    0.0,
+                    215.61
+                ],
+                [
+                    0.0,
+                    239.08
+                ],
+                [
+                    65.3,
+                    237.46
+                ],
+                [
+                    64.49,
+                    210.75
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the bottom boundary of the selected table\u2019s row header to make that row\u2019s width twice its original size.",
+    "modality": "Table"
+}

@@ -1,0 +1,69 @@
+{
+    "image_id": "Canvas-ae01",
+    "task": "\u73b0\u5728\u6211\u9700\u8981\u5728WPS PPT \u4e2d\u901a\u8fc7\u62d6\u52a8\u9009\u4e2dppt\u4e2d\u7684\u6240\u6709\u56fe\u5f62",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    554.17,
+                    659.4
+                ],
+                [
+                    588.06,
+                    193.35
+                ],
+                [
+                    252.51,
+                    173.02
+                ],
+                [
+                    177.94,
+                    520.43
+                ],
+                [
+                    255.9,
+                    676.34
+                ],
+                [
+                    550.78,
+                    659.4
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1193.07,
+                    1123.75
+                ],
+                [
+                    1135.45,
+                    1405.07
+                ],
+                [
+                    1521.85,
+                    1418.63
+                ],
+                [
+                    2069.24,
+                    1459.3
+                ],
+                [
+                    2059.07,
+                    1086.46
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I need to select all shapes in a WPS PPT by dragging.",
+    "modality": "Canvas"
+}

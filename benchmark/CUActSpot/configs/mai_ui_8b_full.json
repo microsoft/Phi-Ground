@@ -1,0 +1,17 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "MAI-UI-8B",
+    "preset": "mai_ui_8b_api"
+  },
+  "output": {
+    "output_dir": "outputs/mai_ui_8b_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-ed68",
+    "task": "\u5df2\u7ecf\u8f93\u5165ai,\u63a5\u4e0b\u6765\u70b9\u51fbbox\u8fdb\u884c\u8c37\u6b4c\u67e5\u627e",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    121.2,
+                    94.43
+                ],
+                [
+                    124.28,
+                    189.86
+                ],
+                [
+                    2430.12,
+                    183.71
+                ],
+                [
+                    2417.81,
+                    51.33
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "You have already entered \u201cai\u201d; next, click the box to perform a Google search.",
+    "modality": "GUI"
+}

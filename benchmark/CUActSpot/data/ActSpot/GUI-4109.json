@@ -1,0 +1,57 @@
+{
+    "image_id": "GUI-4109",
+    "task": "\u62d6\u52a8\u5df2\u56fa\u5b9a\u5217\u8868\u4e2d\u7684edge\uff0c\u548cword\u56fe\u6807\u4e92\u6362\u4f4d\u7f6e",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    652.35,
+                    453.82
+                ],
+                [
+                    649.55,
+                    540.61
+                ],
+                [
+                    730.74,
+                    535.01
+                ],
+                [
+                    725.14,
+                    453.82
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    753.14,
+                    451.02
+                ],
+                [
+                    750.34,
+                    543.41
+                ],
+                [
+                    842.73,
+                    543.41
+                ],
+                [
+                    848.33,
+                    448.22
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the \u201cedge\u201d icon in the pinned list to swap positions with the \u201cword\u201d icon.",
+    "modality": "GUI"
+}

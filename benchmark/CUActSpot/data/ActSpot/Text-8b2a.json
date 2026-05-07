@@ -1,0 +1,35 @@
+{
+  "image_id": "Text-8b2a",
+  "task": "I need to assign scores to questions 1–13. Please click in the blank space before the word “point” following each question to place the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1112.46,
+          680.1
+        ],
+        [
+          1190.27,
+          690.61
+        ],
+        [
+          1175.55,
+          757.91
+        ],
+        [
+          1089.33,
+          736.88
+        ],
+        [
+          1125.08,
+          675.89
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

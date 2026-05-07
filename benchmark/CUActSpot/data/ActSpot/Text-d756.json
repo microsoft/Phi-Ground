@@ -1,0 +1,57 @@
+{
+    "image_id": "Text-d756",
+    "task": "\u62d6\u52a8\u9f20\u6807\u9009\u4e2d\u201ckeep moving\u201d\u8fd9\u4e24\u4e2a\u5355\u8bcd\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    655.45,
+                    677.35
+                ],
+                [
+                    647.81,
+                    724.46
+                ],
+                [
+                    664.37,
+                    728.28
+                ],
+                [
+                    672.0,
+                    676.08
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    840.07,
+                    679.9
+                ],
+                [
+                    834.98,
+                    730.83
+                ],
+                [
+                    859.17,
+                    738.47
+                ],
+                [
+                    859.17,
+                    679.9
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the mouse to select the words \u201ckeep moving.\u201d",
+    "modality": "Text"
+}

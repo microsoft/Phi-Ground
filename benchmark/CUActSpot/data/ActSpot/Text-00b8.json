@@ -1,0 +1,121 @@
+{
+    "image_id": "Text-00b8",
+    "task": "\u6211\u60f3\u5220\u9664Partition (cut) each shape into 3 equal pieces.\u4e2d\u7684 \"(cut)\", \u8bf7\u4f60\u5148\u62d6\u62fd\u9f20\u6807\u9009\u4e2d\u8fd9\u51e0\u4e2a\u5b57\u7b26",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1276.2,
+                    549.66
+                ],
+                [
+                    1289.79,
+                    548.24
+                ],
+                [
+                    1289.08,
+                    564.65
+                ],
+                [
+                    1275.14,
+                    564.83
+                ],
+                [
+                    1274.79,
+                    550.72
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    1304.43,
+                    549.3
+                ],
+                [
+                    1311.31,
+                    548.95
+                ],
+                [
+                    1312.37,
+                    563.42
+                ],
+                [
+                    1308.67,
+                    568.36
+                ],
+                [
+                    1302.67,
+                    563.95
+                ],
+                [
+                    1303.73,
+                    556.54
+                ],
+                [
+                    1304.79,
+                    550.36
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        },
+        {
+            "id": "R4",
+            "type": "Banned",
+            "points": [
+                [
+                    1224.33,
+                    545.95
+                ],
+                [
+                    1273.38,
+                    546.66
+                ],
+                [
+                    1269.5,
+                    571.71
+                ],
+                [
+                    1324.02,
+                    571.54
+                ],
+                [
+                    1325.25,
+                    546.66
+                ],
+                [
+                    1368.84,
+                    547.36
+                ],
+                [
+                    1366.37,
+                    581.06
+                ],
+                [
+                    1222.03,
+                    583.71
+                ],
+                [
+                    1212.68,
+                    546.13
+                ],
+                [
+                    1225.21,
+                    546.13
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I want to delete \u201c(cut)\u201d from \u201cPartition (cut) each shape into 8 equal pieces.\u201d Please first drag to select these characters.",
+    "modality": "Text"
+}

@@ -1,0 +1,53 @@
+{
+    "image_id": "Canvas-7517",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u77e9\u5f62\uff0c\u9700\u8981\u62d6\u52a8\u9ed1\u8272\u65cb\u8f6c\u6309\u94ae\u9006\u65f6\u9488\u65cb\u8f6c90\u5ea6",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1167.65,
+                    718.31
+                ],
+                [
+                    1167.65,
+                    743.18
+                ],
+                [
+                    1198.26,
+                    742.23
+                ],
+                [
+                    1194.43,
+                    713.53
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1181.21,
+                    888.18
+                ],
+                [
+                    379.61,
+                    835.65
+                ],
+                [
+                    381.31,
+                    961.05
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected a rectangle in WPS PPT and need to drag the black rotation handle to rotate it 90 degrees counterclockwise.",
+    "modality": "Canvas"
+}

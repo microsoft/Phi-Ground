@@ -1,0 +1,55 @@
+{
+  "image_id": "Image-ba8c",
+  "task": "There are currently three layers. Please drag the first layer to the last position.",
+  "polygons": [
+    {
+      "id": "R5",
+      "type": "Target",
+      "points": [
+        [
+          1667.65,
+          844.13
+        ],
+        [
+          1667.65,
+          873.57
+        ],
+        [
+          1915.79,
+          869.36
+        ],
+        [
+          1915.79,
+          837.82
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R6",
+      "type": "Target",
+      "points": [
+        [
+          1669.44,
+          895.61
+        ],
+        [
+          1920.0,
+          901.35
+        ],
+        [
+          1920.0,
+          1115.37
+        ],
+        [
+          1665.13,
+          1112.49
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

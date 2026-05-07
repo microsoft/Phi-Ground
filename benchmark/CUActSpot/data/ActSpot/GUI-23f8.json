@@ -1,0 +1,57 @@
+{
+    "image_id": "GUI-23f8",
+    "task": "\u628aGoogleChorme\u62d6\u52a8\u5230\u56de\u6536\u7ad9\u4e2d",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    0.0,
+                    182.74
+                ],
+                [
+                    123.19,
+                    182.74
+                ],
+                [
+                    134.39,
+                    364.73
+                ],
+                [
+                    8.4,
+                    381.52
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2.8,
+                    557.91
+                ],
+                [
+                    131.59,
+                    555.11
+                ],
+                [
+                    137.19,
+                    731.5
+                ],
+                [
+                    8.4,
+                    734.3
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag Google Chrome to the Recycle Bin.",
+    "modality": "GUI"
+}

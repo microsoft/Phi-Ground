@@ -1,0 +1,73 @@
+{
+    "image_id": "Canvas-27dc",
+    "task": "\u6211\u5728diagrams\u6587\u6863\u4e2d\u9700\u8981\u4f60\u62d6\u52a8\u8282\u70b91\u7684\u4f4d\u7f6e\uff0c\u79fb\u52a8\u5230\u753b\u5e03\u6700\u5de6\u8fb9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    639.64,
+                    222.28
+                ],
+                [
+                    647.26,
+                    384.35
+                ],
+                [
+                    881.79,
+                    384.35
+                ],
+                [
+                    889.42,
+                    214.65
+                ],
+                [
+                    729.25,
+                    212.75
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    389.86,
+                    233.72
+                ],
+                [
+                    273.55,
+                    233.72
+                ],
+                [
+                    244.95,
+                    428.21
+                ],
+                [
+                    325.03,
+                    491.13
+                ],
+                [
+                    487.1,
+                    464.43
+                ],
+                [
+                    462.31,
+                    290.92
+                ],
+                [
+                    441.34,
+                    233.72
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "In the diagrams document, please drag node 1 to the far left of the canvas.",
+    "modality": "Canvas"
+}

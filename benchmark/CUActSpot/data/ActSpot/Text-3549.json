@@ -1,0 +1,63 @@
+{
+  "image_id": "Text-3549",
+  "task": "Select the two words “copying nodes” from the context “Add option Apply filter when copying nodes as map text (default: true).”",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          265.56,
+          317.77
+        ],
+        [
+          314.58,
+          312.33
+        ],
+        [
+          318.21,
+          341.38
+        ],
+        [
+          272.82,
+          335.93
+        ],
+        [
+          261.93,
+          312.33
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          374.49,
+          314.14
+        ],
+        [
+          398.09,
+          314.14
+        ],
+        [
+          403.54,
+          337.75
+        ],
+        [
+          367.23,
+          341.38
+        ],
+        [
+          361.78,
+          335.93
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

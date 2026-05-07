@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-0826",
+    "task": "\u6211\u5728\u98de\u4e66\u6d41\u7a0b\u56fe\u6587\u6863\u4e2d\u9700\u8981\u4f60\u62d6\u52a8Decision\u8282\u70b9\u7684\u4f4d\u7f6e\uff0c\u79fb\u52a8\u5230start\u8fde\u63a5\u7684\u7b2c\u4e00\u4e2aProcess\u8282\u70b9\u548cEnd\u8282\u70b9\u4e4b\u524d\u7684\u7b2c\u4e00\u4e2aProcess\u8282\u70b9\u7684\u6b63\u4e2d\u95f4",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    934.26,
+                    221.46
+                ],
+                [
+                    842.25,
+                    279.16
+                ],
+                [
+                    928.02,
+                    332.18
+                ],
+                [
+                    1027.83,
+                    277.6
+                ],
+                [
+                    938.94,
+                    226.13
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    825.09,
+                    626.94
+                ],
+                [
+                    832.89,
+                    754.82
+                ],
+                [
+                    1037.19,
+                    756.38
+                ],
+                [
+                    1043.43,
+                    603.55
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "In the Feishu flowchart document, drag the Decision node to the exact midpoint between the first Process node connected to Start and the first Process node immediately before End.",
+    "modality": "Canvas"
+}

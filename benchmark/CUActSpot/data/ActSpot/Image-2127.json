@@ -1,0 +1,37 @@
+{
+    "image_id": "Image-2127",
+    "task": "\u73b0\u5728\u6211\u9009\u4e2d\u4e86Remover\u529f\u80fd\uff0c\u6211\u9700\u8981\u4f60\u5e2e\u6211\u62d6\u52a8\u753b\u7b14\u5c06\u753b\u9762\u4e2d\u95f4\u6775\u7740\u62d0\u6756\u7684\u4eba\u6d82\u62b9\u8986\u76d6\uff0c\u4ee5\u5b9e\u73b0\u81ea\u52a8\u6d88\u9664\u529f\u80fd",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1432.64,
+                    565.4
+                ],
+                [
+                    1674.48,
+                    573.29
+                ],
+                [
+                    1669.22,
+                    1183.15
+                ],
+                [
+                    1398.47,
+                    1164.75
+                ],
+                [
+                    1432.64,
+                    565.4
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019ve selected the Remover feature. Please drag the brush to paint over the person standing in the center of the frame holding a cane to automatically remove them.",
+    "modality": "Image"
+}

@@ -1,0 +1,105 @@
+{
+    "image_id": "Canvas-4ca3",
+    "task": "\u5047\u8bbe\u5f53\u524d\u5df2\u9009\u4e2d\u7ed8\u5236\u591a\u8fb9\u5f62\u7684\u5de5\u5177\u3002\u8bc6\u522b\u753b\u9762\u4e2d\u6240\u6709\u7ed9\u5b9a\u6b63\u65b9\u5f62\u7684\u4e2d\u5fc3\u70b9\uff0c\u5e76\u4ee5\u8fd9\u4e9b\u4e2d\u5fc3\u70b9\u4f5c\u4e3a\u591a\u8fb9\u5f62\u9876\u70b9\uff0c\u4ece\u53f3\u4e0a\u89d2\u90a3\u4e2a\u5f00\u59cb\uff0c\u6309\u7167\u5b83\u4eec\u5728\u753b\u9762\u4e2d\u7684\u987a\u65f6\u9488\u987a\u5e8f\u4f9d\u6b21\u8fde\u63a5\uff0c\u7ed8\u5236\u4e00\u4e2a\u95ed\u5408\u591a\u8fb9\u5f62\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1523.08,
+                    387.92
+                ],
+                [
+                    1520.28,
+                    480.32
+                ],
+                [
+                    1629.47,
+                    485.92
+                ],
+                [
+                    1646.27,
+                    387.92
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    733.54,
+                    393.52
+                ],
+                [
+                    842.73,
+                    396.32
+                ],
+                [
+                    853.93,
+                    491.52
+                ],
+                [
+                    753.14,
+                    494.32
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    719.54,
+                    886.28
+                ],
+                [
+                    725.14,
+                    1006.68
+                ],
+                [
+                    870.73,
+                    1015.07
+                ],
+                [
+                    901.53,
+                    880.68
+                ]
+            ],
+            "rank": "3",
+            "visible": true
+        },
+        {
+            "id": "R4",
+            "type": "Target",
+            "points": [
+                [
+                    1509.08,
+                    880.68
+                ],
+                [
+                    1495.08,
+                    1015.07
+                ],
+                [
+                    1657.47,
+                    1012.27
+                ],
+                [
+                    1671.47,
+                    869.49
+                ]
+            ],
+            "rank": "4",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Assuming the polygon drawing tool is active, identify the centers of all specified squares in the view and use them as the polygon\u2019s vertices. Starting with the top-right one, connect the centers in counter-clockwise order to draw a closed polygon.",
+    "modality": "Canvas"
+}

@@ -1,0 +1,33 @@
+{
+    "image_id": "Table-e239",
+    "task": "\u8bf7\u5728\u8868\u683c\u4e2d\u9009\u4e2d\u5355\u5143\u683cG10",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    971.07,
+                    559.41
+                ],
+                [
+                    974.46,
+                    618.72
+                ],
+                [
+                    1140.54,
+                    618.72
+                ],
+                [
+                    1149.01,
+                    556.02
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Please select cell G10 in the table.",
+    "modality": "Table"
+}

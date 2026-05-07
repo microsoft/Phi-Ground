@@ -1,0 +1,81 @@
+{
+    "image_id": "Canvas-546e",
+    "task": "\u7528\u9f20\u6807\u62d6\u52a8\u957f\u65b9\u5f62\u5de6\u4e0a\u65b9\u7684\u7f29\u653e\u70b9\uff0c\u653e\u5927\u957f\u65b9\u5f62\u4f7f\u5f97\u5b83\u5360\u6ee1PPT\u7684\u6240\u6709\u7a7a\u95f4",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1030.45,
+                    701.13
+                ],
+                [
+                    992.6,
+                    696.92
+                ],
+                [
+                    990.49,
+                    736.88
+                ],
+                [
+                    1024.14,
+                    768.42
+                ],
+                [
+                    1057.79,
+                    743.19
+                ],
+                [
+                    1032.55,
+                    703.23
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    233.43,
+                    255.3
+                ],
+                [
+                    273.38,
+                    280.53
+                ],
+                [
+                    256.56,
+                    318.39
+                ],
+                [
+                    210.3,
+                    305.77
+                ],
+                [
+                    222.91,
+                    255.3
+                ],
+                [
+                    237.63,
+                    255.3
+                ],
+                [
+                    233.43,
+                    255.3
+                ],
+                [
+                    239.74,
+                    251.09
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Use the mouse to drag the resizing handle at the rectangle\u2019s top-left corner, enlarging it to fill the entire PowerPoint slide.",
+    "modality": "Canvas"
+}

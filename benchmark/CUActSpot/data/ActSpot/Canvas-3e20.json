@@ -1,0 +1,57 @@
+{
+    "image_id": "Canvas-3e20",
+    "task": "\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u4e00\u4e2a\u6247\u5f62\uff0c\u8bf7\u4f60\u62d6\u52a8\u5b83\u7684\u53f3\u4fa7\u9ec4\u989c\u8272\u7684\u89d2\u70b9\uff0c\u4f7f\u5176\u53d8\u6210\u4e00\u4e2a\u534a\u5706",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1986.82,
+                    920.08
+                ],
+                [
+                    1993.77,
+                    945.54
+                ],
+                [
+                    2011.13,
+                    945.54
+                ],
+                [
+                    2013.45,
+                    915.45
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1813.2,
+                    1094.86
+                ],
+                [
+                    1822.46,
+                    1128.43
+                ],
+                [
+                    1859.5,
+                    1136.53
+                ],
+                [
+                    1854.87,
+                    1085.6
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected a sector in WPS PPT; please drag its right yellow handle to turn it into a semicircle.",
+    "modality": "Canvas"
+}

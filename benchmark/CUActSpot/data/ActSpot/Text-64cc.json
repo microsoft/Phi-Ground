@@ -1,0 +1,55 @@
+{
+  "image_id": "Text-64cc",
+  "task": "Drag the selected code snippet to the correct position.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          905.1,
+          187.38
+        ],
+        [
+          836.81,
+          188.72
+        ],
+        [
+          841.49,
+          226.89
+        ],
+        [
+          910.46,
+          222.87
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          906.44,
+          280.46
+        ],
+        [
+          901.76,
+          252.34
+        ],
+        [
+          886.36,
+          255.68
+        ],
+        [
+          888.36,
+          297.87
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

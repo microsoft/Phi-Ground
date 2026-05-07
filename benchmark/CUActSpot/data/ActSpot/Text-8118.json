@@ -1,0 +1,31 @@
+{
+  "image_id": "Text-8118",
+  "task": "I’m about to modify the value corresponding to “apple” and need you to click right after the number 3 to place the cursor.",
+  "polygons": [
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          348.78,
+          26.4
+        ],
+        [
+          345.21,
+          79.34
+        ],
+        [
+          362.38,
+          80.06
+        ],
+        [
+          364.52,
+          24.97
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

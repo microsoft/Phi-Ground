@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-ba81",
+    "task": "\u5e2e\u6211\u628a\u98de\u673a\u8d34\u7eb8\uff08\u98de\u673a\u56fe\u6848\uff0c\u65c1\u8fb9\u6709gogo\u7684\u5b57\u6837\uff09\u62d6\u52a8\u5230\u753b\u9762\u6b63\u4e2d\u95f4\u6700\u9ad8\u7684\u5c71\u7684\u5c71\u5cf0\u6b63\u4e0a\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    269.1,
+                    785.76
+                ],
+                [
+                    400.54,
+                    790.54
+                ],
+                [
+                    383.81,
+                    917.19
+                ],
+                [
+                    266.71,
+                    902.85
+                ],
+                [
+                    271.49,
+                    771.42
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1296.69,
+                    362.77
+                ],
+                [
+                    1411.39,
+                    360.39
+                ],
+                [
+                    1416.17,
+                    465.53
+                ],
+                [
+                    1272.79,
+                    448.81
+                ],
+                [
+                    1282.35,
+                    367.55
+                ],
+                [
+                    1299.08,
+                    365.16
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the airplane sticker (with an airplane graphic and \u201cgogo\u201d next to it) to directly above the summit of the tallest mountain in the center of the image.",
+    "modality": "Image"
+}

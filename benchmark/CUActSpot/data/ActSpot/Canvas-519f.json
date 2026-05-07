@@ -1,0 +1,69 @@
+{
+    "image_id": "Canvas-519f",
+    "task": "\u76ee\u524d\u8fd9\u4e2a\u9ec4\u8272\u7684\u5fc3\u5f62\u592a\u7a84\u4e86\uff0c\u62d6\u52a8\u5b83\u6b63\u53f3\u4fa7\u7684\u7f29\u653e\u70b9\u8ba9\u5b83\u548c\u4e0b\u9762\u7684\u957f\u65b9\u5f62\u4e00\u6837\u5bbd\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    691.87,
+                    448.77
+                ],
+                [
+                    744.45,
+                    469.8
+                ],
+                [
+                    759.17,
+                    520.27
+                ],
+                [
+                    677.15,
+                    528.68
+                ],
+                [
+                    691.87,
+                    446.67
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    914.79,
+                    459.29
+                ],
+                [
+                    963.15,
+                    457.18
+                ],
+                [
+                    986.29,
+                    511.86
+                ],
+                [
+                    946.33,
+                    537.1
+                ],
+                [
+                    895.86,
+                    520.27
+                ],
+                [
+                    908.48,
+                    459.29
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "The yellow heart shape is currently too narrow; drag the resize handle on its right side to make it as wide as the rectangle below.",
+    "modality": "Canvas"
+}

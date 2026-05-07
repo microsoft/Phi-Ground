@@ -1,0 +1,63 @@
+{
+  "image_id": "Text-8833",
+  "task": "I want to change the 4 in 1.10.4. Please drag the mouse to select the 4.",
+  "polygons": [
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          72.4,
+          161.04
+        ],
+        [
+          78.4,
+          161.14
+        ],
+        [
+          79.0,
+          177.94
+        ],
+        [
+          71.4,
+          179.74
+        ],
+        [
+          72.6,
+          162.04
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          87.9,
+          161.14
+        ],
+        [
+          98.3,
+          161.64
+        ],
+        [
+          95.3,
+          177.34
+        ],
+        [
+          83.7,
+          179.64
+        ],
+        [
+          87.9,
+          162.64
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

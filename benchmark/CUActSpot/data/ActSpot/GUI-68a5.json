@@ -1,0 +1,59 @@
+{
+  "image_id": "GUI-68a5",
+  "task": "Now I want to set the Local Toning parameter using the app’s built-in Auto setting to 20%. Dragging the slider all the way to the right corresponds to 100%.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          279.47,
+          906.9
+        ],
+        [
+          316.78,
+          913.75
+        ],
+        [
+          307.64,
+          962.48
+        ],
+        [
+          269.57,
+          963.24
+        ],
+        [
+          280.23,
+          912.23
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          339.17,
+          957.15
+        ],
+        [
+          341.4,
+          902.52
+        ],
+        [
+          301.26,
+          901.41
+        ],
+        [
+          305.72,
+          970.53
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

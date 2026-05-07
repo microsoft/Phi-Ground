@@ -1,0 +1,73 @@
+{
+    "image_id": "Image-8eef",
+    "task": "\u6211\u6b63\u5728\u4f7f\u7528\u88c1\u526a\u56fe\u7247\u529f\u80fd\uff0c\u6211\u60f3\u8981\u628a\u753b\u9762\u4e2d\u767d\u8272\u7684\u8239\u7684\u90e8\u5206\u88c1\u526a\u4e0b\u6765\uff0c\u4e0d\u4fdd\u7559\u4efb\u4f55\u7a7a\u4f59\u7a7a\u95f4\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    665.06,
+                    468.14
+                ],
+                [
+                    820.15,
+                    470.77
+                ],
+                [
+                    780.72,
+                    583.81
+                ],
+                [
+                    638.77,
+                    557.52
+                ],
+                [
+                    662.43,
+                    462.89
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1482.58,
+                    1025.43
+                ],
+                [
+                    1614.02,
+                    1038.57
+                ],
+                [
+                    1603.5,
+                    1125.32
+                ],
+                [
+                    1482.58,
+                    1125.32
+                ],
+                [
+                    1458.93,
+                    1067.49
+                ],
+                [
+                    1490.47,
+                    1014.91
+                ],
+                [
+                    1500.99,
+                    1025.43
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I am using the image cropping feature to crop out the white boat in the frame without leaving any extra space.",
+    "modality": "Image"
+}

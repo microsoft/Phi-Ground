@@ -1,0 +1,17 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "GUI-G2-7B",
+    "preset": "gui_g2_7b_transformers"
+  },
+  "output": {
+    "output_dir": "outputs/gui_g2_7b_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

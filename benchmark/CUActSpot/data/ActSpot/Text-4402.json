@@ -1,0 +1,39 @@
+{
+  "image_id": "Text-4402",
+  "task": "Click the blank space between “## Quo Background” and “- Accessible on Windows, Mac, ...” as I want to insert an additional item.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          27.17,
+          861.24
+        ],
+        [
+          314.25,
+          877.19
+        ],
+        [
+          261.09,
+          922.38
+        ],
+        [
+          19.19,
+          909.09
+        ],
+        [
+          40.46,
+          869.22
+        ],
+        [
+          21.85,
+          898.46
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

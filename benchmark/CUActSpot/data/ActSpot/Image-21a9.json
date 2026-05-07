@@ -1,0 +1,57 @@
+{
+    "image_id": "Image-21a9",
+    "task": "\u73b0\u5728\u6211\u6253\u5f00\u4e86ps\u7684\u56fe\u5c42\u754c\u9762\uff0c\u8bf7\u4f60\u62d6\u52a8layer 0\u5230\u6700\u4e0b\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1984.35,
+                    457.77
+                ],
+                [
+                    1980.88,
+                    570.61
+                ],
+                [
+                    2501.71,
+                    568.88
+                ],
+                [
+                    2484.35,
+                    449.09
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1966.99,
+                    598.39
+                ],
+                [
+                    2498.24,
+                    600.13
+                ],
+                [
+                    2512.13,
+                    782.42
+                ],
+                [
+                    1972.2,
+                    763.32
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have opened Photoshop\u2019s Layers panel. Please drag Layer 0 to the bottom.",
+    "modality": "Image"
+}

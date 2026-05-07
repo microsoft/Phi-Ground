@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-e534",
+    "task": "\u62d6\u52a8\u6240\u9009\u4e2d\u8868\u683c\u7684\u884c\u5934\u7684\u4e0b\u8fb9\u754c\uff0c\u4f7f\u8be5\u884c\u5bbd\u5ea6\u53d8\u4e3a\u539f\u6765\u4e24\u500d",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    61.43,
+                    252.11
+                ],
+                [
+                    14.45,
+                    244.82
+                ],
+                [
+                    15.26,
+                    269.93
+                ],
+                [
+                    65.48,
+                    273.98
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    60.62,
+                    298.28
+                ],
+                [
+                    59.81,
+                    276.41
+                ],
+                [
+                    16.07,
+                    278.03
+                ],
+                [
+                    15.26,
+                    297.47
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the lower boundary of the selected table row header to double the row\u2019s width.",
+    "modality": "Table"
+}

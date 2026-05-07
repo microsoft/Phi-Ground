@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-3261",
+    "task": "\u62d6\u52a8\u542b\u6709cat\u7684\u884c\u79fb\u52a8\u523010\u884c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    86.5,
+                    530.76
+                ],
+                [
+                    82.08,
+                    580.89
+                ],
+                [
+                    0.0,
+                    570.57
+                ],
+                [
+                    0.0,
+                    520.44
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    0.99,
+                    598.58
+                ],
+                [
+                    96.82,
+                    601.53
+                ],
+                [
+                    87.98,
+                    647.23
+                ],
+                [
+                    0.0,
+                    645.76
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the rows containing \u201ccat\u201d to row 10.",
+    "modality": "Table"
+}

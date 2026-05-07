@@ -1,0 +1,17 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "EvoCUA-8B-20260105",
+    "preset": "evocua_8b_transformers"
+  },
+  "output": {
+    "output_dir": "outputs/evocua_8b_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "GPT-5.4",
+    "preset": "gpt5_4_azure",
+    "backend": {
+      "target": "azure_gpt5_responses",
+      "kwargs": {
+        "azure_endpoint": "<YOUR_AZURE_OPENAI_ENDPOINT>",
+        "api_version": "2025-04-01-preview",
+        "managed_identity_client_id": "<YOUR_MANAGED_IDENTITY_CLIENT_ID>",
+        "model": "gpt-5.4",
+        "display_width": 1440,
+        "display_height": 900,
+        "reasoning_effort": "high",
+        "reasoning_summary": "auto"
+      }
+    }
+  },
+  "output": {
+    "output_dir": "outputs/gpt5_4_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true,
+    "num_workers": 8
+  }
+}

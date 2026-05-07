@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-7d43",
+    "task": "\u5173\u95ed\u524d\u7f6e\u7a97\u53e3",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1938.73,
+                    132.08
+                ],
+                [
+                    1930.34,
+                    255.17
+                ],
+                [
+                    2042.24,
+                    252.37
+                ],
+                [
+                    2011.47,
+                    134.87
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Close the foreground window.",
+    "modality": "GUI"
+}

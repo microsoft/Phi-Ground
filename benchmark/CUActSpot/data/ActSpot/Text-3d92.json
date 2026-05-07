@@ -1,0 +1,35 @@
+{
+  "image_id": "Text-3d92",
+  "task": "Click once between the words “It” and “comes” to set the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1396.44,
+          600.08
+        ],
+        [
+          1382.88,
+          656.01
+        ],
+        [
+          1413.39,
+          656.01
+        ],
+        [
+          1415.08,
+          605.17
+        ],
+        [
+          1404.91,
+          589.91
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-6296",
+    "task": "\u4e3a\u201cIs AI Hiding Its Full Power? With Geoffrey Hinton\u201d\u89c6\u9891\u5728\u5f53\u524d\u9884\u89c8\u754c\u9762\u6253\u5f00\u5b57\u5e55",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1192.71,
+                    335.93
+                ],
+                [
+                    1304.7,
+                    333.13
+                ],
+                [
+                    1299.1,
+                    417.12
+                ],
+                [
+                    1170.31,
+                    414.32
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Open subtitles for the video \u201cIs AI Hiding Its Full Power? With Geoffrey Hinton\u201d in the current preview interface.",
+    "modality": "GUI"
+}

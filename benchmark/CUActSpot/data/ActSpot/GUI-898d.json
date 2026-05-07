@@ -1,0 +1,81 @@
+{
+    "image_id": "GUI-898d",
+    "task": "\u5c06openai\u9875\u9762\u62d6\u52a8\u5230\u684c\u9762\u53f3\u4e0b\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    47.21,
+                    158.13
+                ],
+                [
+                    44.43,
+                    208.11
+                ],
+                [
+                    1169.04,
+                    210.89
+                ],
+                [
+                    1174.59,
+                    152.58
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1330.09,
+                    632.96
+                ],
+                [
+                    2496.35,
+                    632.96
+                ],
+                [
+                    2510.23,
+                    1302.17
+                ],
+                [
+                    1316.21,
+                    1299.4
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Banned",
+            "points": [
+                [
+                    297.12,
+                    152.58
+                ],
+                [
+                    291.56,
+                    210.89
+                ],
+                [
+                    374.87,
+                    213.67
+                ],
+                [
+                    394.31,
+                    149.8
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the OpenAI page to the bottom-right corner of the desktop.",
+    "modality": "GUI"
+}

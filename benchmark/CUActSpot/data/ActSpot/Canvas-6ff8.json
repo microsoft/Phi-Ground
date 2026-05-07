@@ -1,0 +1,63 @@
+{
+  "image_id": "Canvas-6ff8",
+  "task": "I have selected the topmost process node in the Feishu flowchart document. Now please drag the dotted connector located above it to the Decision node in the middle.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          662.9,
+          386.77
+        ],
+        [
+          636.39,
+          411.72
+        ],
+        [
+          644.18,
+          427.32
+        ],
+        [
+          690.97,
+          419.52
+        ],
+        [
+          686.29,
+          391.45
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          837.57,
+          626.94
+        ],
+        [
+          832.89,
+          750.14
+        ],
+        [
+          1002.88,
+          745.46
+        ],
+        [
+          1037.19,
+          697.12
+        ],
+        [
+          1021.6,
+          614.46
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

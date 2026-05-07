@@ -1,0 +1,57 @@
+{
+    "image_id": "Canvas-c2b1",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u76f4\u89d2\u4e09\u89d2\u5f62\u7ed8\u5236\u5de5\u5177\uff0c\u9700\u8981\u4ece\u6b63\u5728\u7f16\u8f91\u7684ppt\u9875\u4e2d\u77e9\u5f62\u4e2d\u753b\u51fa\u4e00\u4e2a\u76f4\u89d2\u548c\u5de6\u4e0b\u89d2\u91cd\u53e0\uff0c\u76f4\u89d2\u8fb9\u548c\u77e9\u5f62\u8fb9\u91cd\u5408\uff0c\u9510\u89d2\u9876\u70b9\u548c\u77e9\u5f62\u76f8\u90bb\u9876\u70b9\u91cd\u5408\u7684\u76f4\u89d2\u4e09\u89d2\u5f62\uff0c\u4f60\u9700\u8981\u4ece\u77e9\u5f62\u5de6\u4e0a\u89d2\u62d6\u52a8\u5230\u53f3\u4e0b\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    804.99,
+                    511.96
+                ],
+                [
+                    825.32,
+                    581.44
+                ],
+                [
+                    889.72,
+                    584.83
+                ],
+                [
+                    886.33,
+                    508.57
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1469.31,
+                    1071.21
+                ],
+                [
+                    1455.75,
+                    1147.47
+                ],
+                [
+                    1518.46,
+                    1167.81
+                ],
+                [
+                    1547.27,
+                    1072.91
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "With the Right Triangle tool selected in WPS PPT, draw a right triangle inside the rectangle on the current slide so that its right angle overlaps the rectangle\u2019s bottom-left corner, its legs coincide with the rectangle\u2019s edges, and its acute-angle vertex overlaps an adjacent rectangle corner. Drag from the rectangle\u2019s top-left corner to its bottom-right corner.",
+    "modality": "Canvas"
+}

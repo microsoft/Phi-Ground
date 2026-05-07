@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-480c",
+    "task": "\u70b9\u51fb118\u524d\u7684\u4eba\u6c11\u5e01\u7b26\u53f7",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    635.55,
+                    811.39
+                ],
+                [
+                    618.75,
+                    884.18
+                ],
+                [
+                    705.54,
+                    898.18
+                ],
+                [
+                    669.15,
+                    811.39
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Click the RMB symbol before 118.",
+    "modality": "GUI"
+}

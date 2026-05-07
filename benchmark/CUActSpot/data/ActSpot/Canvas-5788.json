@@ -1,0 +1,67 @@
+{
+  "image_id": "Canvas-5788",
+  "task": "Drag the small gray circle at the triangle’s vertex to the right so that its vertex aligns with the vertex of the downward arrow.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          595.14,
+          476.11
+        ],
+        [
+          616.17,
+          492.93
+        ],
+        [
+          614.06,
+          516.07
+        ],
+        [
+          584.62,
+          516.07
+        ],
+        [
+          590.93,
+          474.01
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          754.96,
+          474.01
+        ],
+        [
+          788.61,
+          484.52
+        ],
+        [
+          790.71,
+          520.27
+        ],
+        [
+          752.86,
+          516.07
+        ],
+        [
+          744.45,
+          499.24
+        ],
+        [
+          757.06,
+          467.7
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

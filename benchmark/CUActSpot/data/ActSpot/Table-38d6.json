@@ -1,0 +1,61 @@
+{
+    "image_id": "Table-38d6",
+    "task": "\u62d6\u52a8\u6240\u9009\u4e2d\u8868\u683c\u7684\u5217\u5934\u7684\u53f3\u8fb9\u754c\uff0c\u4f7f\u8be5\u5217\u5bbd\u5ea6\u53d8\u4e3a\u539f\u6765\u56db\u500d",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    508.58,
+                    0.0
+                ],
+                [
+                    508.58,
+                    43.79
+                ],
+                [
+                    540.53,
+                    44.97
+                ],
+                [
+                    541.72,
+                    0.0
+                ],
+                [
+                    512.13,
+                    0.0
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    799.71,
+                    0.0
+                ],
+                [
+                    800.89,
+                    39.05
+                ],
+                [
+                    834.03,
+                    37.87
+                ],
+                [
+                    835.21,
+                    0.0
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the right boundary of the selected table column header to make the column width four times its original size.",
+    "modality": "Table"
+}

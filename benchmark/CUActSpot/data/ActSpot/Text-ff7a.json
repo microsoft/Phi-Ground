@@ -1,0 +1,133 @@
+{
+    "image_id": "Text-ff7a",
+    "task": "\u62d6\u62fd\u9f20\u6807\u6765\u9009\u4e2d\u6587\u672c\uff1a\u201dThe five subtests are combined to \u2026... understand contextual printed material.\"",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    485.17,
+                    465.51
+                ],
+                [
+                    542.53,
+                    465.51
+                ],
+                [
+                    544.27,
+                    514.17
+                ],
+                [
+                    509.51,
+                    533.29
+                ],
+                [
+                    488.65,
+                    526.34
+                ],
+                [
+                    488.65,
+                    484.63
+                ],
+                [
+                    486.91,
+                    470.72
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    634.64,
+                    540.24
+                ],
+                [
+                    745.87,
+                    548.93
+                ],
+                [
+                    756.3,
+                    573.26
+                ],
+                [
+                    664.19,
+                    578.48
+                ],
+                [
+                    617.26,
+                    576.74
+                ],
+                [
+                    629.43,
+                    547.19
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        },
+        {
+            "id": "R4",
+            "type": "Banned",
+            "points": [
+                [
+                    446.94,
+                    441.18
+                ],
+                [
+                    1441.06,
+                    472.46
+                ],
+                [
+                    1599.22,
+                    183.95
+                ],
+                [
+                    457.37,
+                    161.36
+                ],
+                [
+                    448.68,
+                    449.87
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R5",
+            "type": "Banned",
+            "points": [
+                [
+                    502.55,
+                    597.59
+                ],
+                [
+                    1489.73,
+                    575.0
+                ],
+                [
+                    1489.73,
+                    1089.44
+                ],
+                [
+                    506.03,
+                    1106.82
+                ],
+                [
+                    499.08,
+                    599.33
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the mouse to select the text: \"The five subtests are combined to \u2026... understand contextual printed material.\"",
+    "modality": "Text"
+}

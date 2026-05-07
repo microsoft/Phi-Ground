@@ -1,0 +1,63 @@
+{
+  "image_id": "Text-4e60",
+  "task": "Drag the mouse to select the sentences from \"Success\" to \"failure\".",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          516.89,
+          622.11
+        ],
+        [
+          515.19,
+          596.69
+        ],
+        [
+          489.77,
+          595.0
+        ],
+        [
+          488.08,
+          652.62
+        ],
+        [
+          516.89,
+          650.92
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    },
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          1228.66,
+          642.45
+        ],
+        [
+          1216.8,
+          691.6
+        ],
+        [
+          1240.53,
+          693.29
+        ],
+        [
+          1254.08,
+          661.09
+        ],
+        [
+          1254.08,
+          632.28
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

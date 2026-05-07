@@ -1,0 +1,33 @@
+{
+    "image_id": "Table-3f8c",
+    "task": "\u8bf7\u5728\u8868\u683c\u4e2d\u9009\u4e2d\u5355\u5143\u683cH11",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1335.31,
+                    593.07
+                ],
+                [
+                    1329.11,
+                    639.6
+                ],
+                [
+                    1532.27,
+                    634.95
+                ],
+                [
+                    1529.17,
+                    585.32
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Please select cell H11 in the table.",
+    "modality": "Table"
+}

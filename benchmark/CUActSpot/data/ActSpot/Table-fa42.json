@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-fa42",
+    "task": "\u62d6\u52a8\u542b\u6709\"1,2\"\u5355\u5143\u683c\u7684\u53f3\u4e0b\u89d2\u5411\u53f3\u5f97\u52301\u52305\u7684\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    770.79,
+                    571.36
+                ],
+                [
+                    778.54,
+                    605.48
+                ],
+                [
+                    811.11,
+                    613.23
+                ],
+                [
+                    817.31,
+                    574.46
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1321.35,
+                    568.26
+                ],
+                [
+                    1310.5,
+                    597.73
+                ],
+                [
+                    1361.67,
+                    619.44
+                ],
+                [
+                    1366.33,
+                    568.26
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the fill handle in the lower-right corner of the cell containing \"1,2\" to the right to generate cells numbered 1 through 5.",
+    "modality": "Table"
+}

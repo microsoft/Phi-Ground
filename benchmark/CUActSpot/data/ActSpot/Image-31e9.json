@@ -1,0 +1,57 @@
+{
+    "image_id": "Image-31e9",
+    "task": "\u73b0\u5728\u6211\u6253\u5f00\u4e86ps\u7684\u88c1\u526a\u56fe\u7247\u529f\u80fd\uff0c\u8bf7\u4f60\u62d6\u52a8\u53f3\u4e0b\u89d2\u88c1\u526a\u5230\u5e3d\u5b50\u7684\u53f3\u4e0b\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1737.83,
+                    1215.88
+                ],
+                [
+                    1749.98,
+                    1302.69
+                ],
+                [
+                    1821.16,
+                    1292.27
+                ],
+                [
+                    1826.37,
+                    1212.41
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    953.11,
+                    851.3
+                ],
+                [
+                    949.64,
+                    899.91
+                ],
+                [
+                    1010.41,
+                    910.33
+                ],
+                [
+                    1019.09,
+                    844.36
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019ve opened the crop tool in Photoshop; please drag the bottom-right corner to the bottom-right corner of the hat.",
+    "modality": "Image"
+}

@@ -1,0 +1,57 @@
+{
+    "image_id": "Canvas-3dce",
+    "task": "\u6211\u5728\u98de\u4e66\u6d41\u7a0b\u56fe\u6587\u6863\u4e2d\u9009\u5b9a\u4e86start\u540e\u7684\u7b2c\u4e00\u4e2aProcess\u8282\u70b9\uff0c\u73b0\u5728\u9700\u8981\u4f60\u62d6\u52a8\u5176\u4e0a\u65b9\u7684\u865a\u70b9\u8fde\u63a5\u5230\u6700\u4e0a\u65b9\u7684process\u8282\u70b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    648.86,
+                    601.99
+                ],
+                [
+                    634.83,
+                    630.06
+                ],
+                [
+                    659.78,
+                    648.77
+                ],
+                [
+                    687.85,
+                    619.14
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    583.36,
+                    302.55
+                ],
+                [
+                    580.24,
+                    421.08
+                ],
+                [
+                    778.31,
+                    417.96
+                ],
+                [
+                    772.07,
+                    293.2
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected the first Process node after Start in the Feishu flowchart. Now please drag its dotted connector above to the topmost Process node.",
+    "modality": "Canvas"
+}

@@ -1,0 +1,57 @@
+{
+    "image_id": "GUI-4f24",
+    "task": "\u5728\u5f53\u524d Hugging Face \u6a21\u578b\u4ed3\u5e93\u4e0a\u4f20\u9875\u9762\u4e2d\uff0c\u5c06\u672c\u5730\u6587\u4ef6 Agents of Chao \u4ece\u53f3\u4fa7\u6587\u4ef6\u5939\u7a97\u53e3\u62d6\u62fd\u5230\u4e2d\u592e\u7684\u4e0a\u4f20\u533a\u57df\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1601.28,
+                    560.72
+                ],
+                [
+                    1601.28,
+                    868.46
+                ],
+                [
+                    1861.45,
+                    882.45
+                ],
+                [
+                    1889.43,
+                    574.71
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    305.99,
+                    504.77
+                ],
+                [
+                    269.62,
+                    888.04
+                ],
+                [
+                    1349.49,
+                    862.86
+                ],
+                [
+                    1366.28,
+                    529.95
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "On the current Hugging Face model repository upload page, drag the local file Agents of Chao from the folder window on the right into the central upload area.",
+    "modality": "GUI"
+}

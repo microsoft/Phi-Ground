@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-d805",
+    "task": "\u5173\u95ed\u5305\u542bOpenai\u7684\u6d4f\u89c8\u5668\u7a97\u53e3",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1941.53,
+                    137.67
+                ],
+                [
+                    1913.55,
+                    232.79
+                ],
+                [
+                    1983.49,
+                    216.0
+                ],
+                [
+                    2011.47,
+                    132.08
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Close any browser windows containing OpenAI.",
+    "modality": "GUI"
+}

@@ -1,0 +1,17 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "GUI-Owl-1.5-8B-Think",
+    "preset": "gui_owl_8b_think_transformers"
+  },
+  "output": {
+    "output_dir": "outputs/gui_owl_8b_think_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

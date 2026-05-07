@@ -1,0 +1,28 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot",
+    "include_modalities": ["GUI"],
+    "limit": 10
+  },
+  "model": {
+    "name": "your-api-model",
+    "preset": "openai_compatible_api",
+    "system_prompt": "You are a GUI agent that outputs coordinates only.",
+    "backend": {
+      "target": "openai_compatible_api",
+      "kwargs": {
+        "endpoint": "https://your-endpoint.example.com/v1/chat/completions",
+        "model": "your-model-name",
+        "api_key_env": "YOUR_API_KEY_ENV"
+      }
+    },
+    "generation": {
+      "temperature": 0.0,
+      "max_tokens": 256
+    }
+  },
+  "output": {
+    "output_dir": "outputs/api_example",
+    "overwrite": true
+  }
+}

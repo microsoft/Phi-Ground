@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-27f9",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u6709\u5411\u7bad\u5934\u5de5\u5177\uff0c\u9700\u8981\u62d6\u52a8\u6b63\u5728\u7f16\u8f91\u7684ppt\u9875\u4e2d\u5de6\u8fb9\u7684\u5e73\u884c\u56db\u8fb9\u5f62\u53f3\u4e0b\u89d2\u70b9\u6307\u5411\u53f3\u8fb9\u4e09\u89d2\u5f62\u7684\u5de6\u4e0b\u9876\u70b9\uff0c\u5b8c\u6210\u7bad\u5934\u7684\u7ed8\u5236",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1004.03,
+                    921.94
+                ],
+                [
+                    1001.72,
+                    949.72
+                ],
+                [
+                    1027.18,
+                    953.19
+                ],
+                [
+                    1027.18,
+                    917.31
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1589.73,
+                    898.79
+                ],
+                [
+                    1593.21,
+                    928.89
+                ],
+                [
+                    1622.14,
+                    928.89
+                ],
+                [
+                    1627.93,
+                    891.85
+                ],
+                [
+                    1604.78,
+                    881.43
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected the arrow tool in WPS PPT and need to drag from the bottom-right corner of the left parallelogram on the slide I\u2019m editing to the bottom-left vertex of the right triangle to complete the arrow drawing.",
+    "modality": "Canvas"
+}

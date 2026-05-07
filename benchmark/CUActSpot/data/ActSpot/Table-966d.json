@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-966d",
+    "task": "\u62d6\u52a8\u9009\u4e2d\u7684\u4e09\u4e2a\u5355\u5143\u683c\u5230\u540c\u4e00\u884c\u53f3\u8fb9\u4e00\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    816.85,
+                    637.37
+                ],
+                [
+                    820.24,
+                    774.64
+                ],
+                [
+                    1001.57,
+                    766.16
+                ],
+                [
+                    984.63,
+                    622.11
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    974.46,
+                    633.98
+                ],
+                [
+                    972.76,
+                    778.03
+                ],
+                [
+                    1147.32,
+                    776.33
+                ],
+                [
+                    1143.93,
+                    632.28
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the three selected cells one cell to the right in the same row.",
+    "modality": "Table"
+}

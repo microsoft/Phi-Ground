@@ -1,0 +1,31 @@
+{
+  "image_id": "Text-5792",
+  "task": "Click between \"The \" and \"future may feel...\" to set the cursor.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          558.96,
+          600.32
+        ],
+        [
+          553.36,
+          645.14
+        ],
+        [
+          575.77,
+          652.14
+        ],
+        [
+          582.77,
+          594.72
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

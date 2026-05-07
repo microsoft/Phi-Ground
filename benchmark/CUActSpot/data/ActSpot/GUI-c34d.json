@@ -1,0 +1,65 @@
+{
+    "image_id": "GUI-c34d",
+    "task": "\u62d6\u52a8Photo\u7a97\u53e3\u7684\u4e0a\u6cbf\u5230\u6b63\u4e0a\u65b9\uff0c\u4f7f\u5f97\u7a97\u53e3\u7684\u4e0a\u6cbf\u7d27\u8d34\u5c4f\u5e55\u7684\u4e0a\u6cbf",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    445.59,
+                    211.71
+                ],
+                [
+                    1912.69,
+                    211.71
+                ],
+                [
+                    1897.98,
+                    297.88
+                ],
+                [
+                    489.73,
+                    283.17
+                ],
+                [
+                    443.49,
+                    224.32
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    458.21,
+                    0.0
+                ],
+                [
+                    1912.69,
+                    3.62
+                ],
+                [
+                    1914.8,
+                    75.09
+                ],
+                [
+                    456.1,
+                    62.47
+                ],
+                [
+                    458.21,
+                    5.72
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the top edge of the Photo window straight up until it\u2019s flush with the top of the screen.",
+    "modality": "GUI"
+}

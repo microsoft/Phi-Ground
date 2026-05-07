@@ -1,0 +1,69 @@
+{
+    "image_id": "Image-962b",
+    "task": "\u73b0\u5728\u6211\u9009\u4e2d\u4e86\u624b\u52a8\u7626\u8138\u7626\u8170\u529f\u80fd\uff0c\u6211\u60f3\u8ba9\u753b\u9762\u4e2d\u7684\u5973\u751f\u8170\u53d8\u7626\u4e00\u70b9\uff0c\u8bf7\u4ece\u5973\u751f\u53f3\u4fa7\u8170\u7ebf\u7684\u5916\u90e8\u5411\u5185\u90e8\uff08\u5411\u5de6\uff09\u62d6\u52a8\uff0c\u6765\u5b9e\u73b0\u7626\u8170\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1579.85,
+                    1020.17
+                ],
+                [
+                    1629.79,
+                    1041.2
+                ],
+                [
+                    1582.48,
+                    1167.38
+                ],
+                [
+                    1535.16,
+                    1170.0
+                ],
+                [
+                    1577.22,
+                    1035.94
+                ],
+                [
+                    1587.73,
+                    1028.06
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1503.61,
+                    1012.28
+                ],
+                [
+                    1577.22,
+                    1035.94
+                ],
+                [
+                    1535.16,
+                    1156.86
+                ],
+                [
+                    1469.44,
+                    1167.38
+                ],
+                [
+                    1495.73,
+                    1025.43
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have now selected the manual face-slenderizing and waist-slimming feature. I want to make the girl\u2019s waist in the image slightly slimmer. Please drag from the outside of her right waistline inward (to the left) to achieve the slimming effect.",
+    "modality": "Image"
+}

@@ -1,0 +1,95 @@
+{
+  "image_id": "Image-b31c",
+  "task": "I have selected the manual face-and-waist slimming feature. To make the girl’s waist in the image slightly slimmer, drag from the outside of her left waistline inward (to the right).",
+  "polygons": [
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          1328.98,
+          1028.42
+        ],
+        [
+          1346.15,
+          972.01
+        ],
+        [
+          1357.19,
+          940.13
+        ],
+        [
+          1338.79,
+          918.05
+        ],
+        [
+          1338.79,
+          876.36
+        ],
+        [
+          1310.59,
+          823.63
+        ],
+        [
+          1240.69,
+          854.28
+        ],
+        [
+          1268.89,
+          1071.34
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          1317.95,
+          826.08
+        ],
+        [
+          1405.01,
+          844.47
+        ],
+        [
+          1431.99,
+          975.69
+        ],
+        [
+          1417.28,
+          1028.42
+        ],
+        [
+          1360.87,
+          1073.79
+        ],
+        [
+          1331.43,
+          1055.4
+        ],
+        [
+          1328.98,
+          1030.87
+        ],
+        [
+          1358.41,
+          940.13
+        ],
+        [
+          1338.79,
+          922.96
+        ],
+        [
+          1336.34,
+          875.13
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

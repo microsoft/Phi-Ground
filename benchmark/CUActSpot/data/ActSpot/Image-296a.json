@@ -1,0 +1,65 @@
+{
+    "image_id": "Image-296a",
+    "task": "\u6211\u6b63\u5728\u4f7f\u7528\u88c1\u526a\u56fe\u7247\u529f\u80fd\uff0c\u753b\u9762\u4e2d\u53ef\u4ee5\u770b\u5230\u4e24\u5f20\u4e00\u7897\u7c73\u996d\u7684\u7167\u7247\uff0c\u6211\u60f3\u8981\u521a\u597d\u53ea\u4fdd\u7559\u53f3\u8fb9\u7684\u7167\u7247",
+    "polygons": [
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    680.83,
+                    570.66
+                ],
+                [
+                    775.47,
+                    594.32
+                ],
+                [
+                    738.66,
+                    1143.72
+                ],
+                [
+                    638.77,
+                    1156.86
+                ],
+                [
+                    672.95,
+                    575.92
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R4",
+            "type": "Target",
+            "points": [
+                [
+                    1343.26,
+                    589.06
+                ],
+                [
+                    1461.56,
+                    583.81
+                ],
+                [
+                    1448.41,
+                    1188.41
+                ],
+                [
+                    1338.01,
+                    1159.49
+                ],
+                [
+                    1351.15,
+                    602.21
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019m using the crop feature, and the screen shows two photos of a bowl of rice. I want to crop it so that only the right photo remains.",
+    "modality": "Image"
+}

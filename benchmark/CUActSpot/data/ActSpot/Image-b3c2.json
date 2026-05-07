@@ -1,0 +1,37 @@
+{
+    "image_id": "Image-b3c2",
+    "task": "\u73b0\u5728\u6211\u9009\u4e2d\u4e86Remover\u529f\u80fd\uff0c\u6211\u9700\u8981\u4f60\u5e2e\u6211\u62d6\u52a8\u753b\u7b14\u5c06\u753b\u9762\u8857\u9053\u53f3\u4fa7\u7a7f\u6df1\u7ea2\u8272\u8863\u670d\u7684\u5973\u6027\u6d82\u62b9\u8986\u76d6\uff0c\u4ee5\u5b9e\u73b0\u81ea\u52a8\u6d88\u9664\u529f\u80fd",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1995.18,
+                    893.99
+                ],
+                [
+                    2155.53,
+                    891.36
+                ],
+                [
+                    2145.02,
+                    1146.35
+                ],
+                [
+                    2018.84,
+                    1146.35
+                ],
+                [
+                    1997.81,
+                    901.88
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019ve selected the Remover feature. Please drag the brush to cover the woman wearing dark red clothing on the right side of the street in the image to activate the automatic removal function.",
+    "modality": "Image"
+}

@@ -1,0 +1,61 @@
+{
+    "image_id": "Canvas-e92d",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u692d\u5706\u5f62\u7ed8\u5236\u5de5\u5177\uff0c\u9700\u8981\u4ece\u6b63\u5728\u7f16\u8f91\u7684ppt\u9875\u4e2d\u77e9\u5f62\u4e2d\u753b\u51fa\u4e00\u4e2a\u4e0e\u56db\u6761\u8fb9\u90fd\u76f8\u5207\u7684\u692d\u5706\uff0c\u4f60\u9700\u8981\u4ece\u77e9\u5f62\u5de6\u4e0a\u89d2\u62d6\u52a8\u5230\u53f3\u4e0b\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    815.15,
+                    620.42
+                ],
+                [
+                    810.07,
+                    684.82
+                ],
+                [
+                    899.89,
+                    693.29
+                ],
+                [
+                    888.03,
+                    620.42
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1455.75,
+                    1179.67
+                ],
+                [
+                    1404.91,
+                    1245.77
+                ],
+                [
+                    1496.43,
+                    1288.13
+                ],
+                [
+                    1559.13,
+                    1252.54
+                ],
+                [
+                    1550.66,
+                    1171.2
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I have selected the ellipse drawing tool in WPS PPT. To draw an ellipse tangent to all four sides of the rectangle on the current slide, drag from the rectangle\u2019s top-left corner to its bottom-right corner.",
+    "modality": "Canvas"
+}

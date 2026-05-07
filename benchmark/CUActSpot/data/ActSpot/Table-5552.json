@@ -1,0 +1,61 @@
+{
+    "image_id": "Table-5552",
+    "task": "\u62d6\u52a8\u9f20\u6807\u9009\u4e2d\u542b\u6709apple\u548cbanana\u548ccat\u7684\u4e09\u4e2a\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    428.04,
+                    403.87
+                ],
+                [
+                    421.84,
+                    445.74
+                ],
+                [
+                    618.8,
+                    455.04
+                ],
+                [
+                    615.7,
+                    403.87
+                ],
+                [
+                    471.47,
+                    402.31
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    783.2,
+                    400.76
+                ],
+                [
+                    789.4,
+                    458.15
+                ],
+                [
+                    987.91,
+                    456.6
+                ],
+                [
+                    977.06,
+                    397.66
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the mouse to select the three cells containing apple, banana, and cat.",
+    "modality": "Table"
+}

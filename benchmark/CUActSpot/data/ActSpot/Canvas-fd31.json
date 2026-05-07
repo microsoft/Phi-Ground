@@ -1,0 +1,69 @@
+{
+    "image_id": "Canvas-fd31",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u6709\u5411\u7bad\u5934\u5de5\u5177\uff0c\u9700\u8981\u62d6\u52a8\u6b63\u5728\u7f16\u8f91\u7684ppt\u9875\u4e2d\u4e0b\u8fb9\u7684\u83f1\u5f62\u4e0a\u89d2\u70b9\u6307\u5411\u4e0a\u8fb9\u4e09\u89d2\u5f62\u7684\u4e0a\u9876\u70b9\uff0c\u5b8c\u6210\u7bad\u5934\u7684\u7ed8\u5236",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1170.93,
+                    843.97
+                ],
+                [
+                    1169.77,
+                    872.9
+                ],
+                [
+                    1196.4,
+                    879.85
+                ],
+                [
+                    1210.29,
+                    846.28
+                ],
+                [
+                    1184.82,
+                    833.55
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1154.73,
+                    442.31
+                ],
+                [
+                    1146.62,
+                    466.62
+                ],
+                [
+                    1162.83,
+                    486.3
+                ],
+                [
+                    1192.92,
+                    466.62
+                ],
+                [
+                    1190.61,
+                    441.15
+                ],
+                [
+                    1173.25,
+                    434.21
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I\u2019ve selected the arrow tool in WPS PPT and need to drag from the upper corner of the bottom diamond on the current slide to the top vertex of the triangle above to draw the arrow.",
+    "modality": "Canvas"
+}

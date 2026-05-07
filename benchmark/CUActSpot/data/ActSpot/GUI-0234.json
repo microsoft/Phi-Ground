@@ -1,0 +1,65 @@
+{
+    "image_id": "GUI-0234",
+    "task": "\u62d6\u52a8\u89c6\u9891\u64ad\u653e\u5668\u7684\u5706\u5f62\u7684\u8fdb\u5ea6\u6761\uff0c\u5207\u6362\u5230\u6700\u5f00\u59cb",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    445.83,
+                    1010.26
+                ],
+                [
+                    517.33,
+                    1024.98
+                ],
+                [
+                    519.43,
+                    1102.79
+                ],
+                [
+                    441.62,
+                    1094.38
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    90.43,
+                    995.54
+                ],
+                [
+                    124.07,
+                    1031.29
+                ],
+                [
+                    121.97,
+                    1085.97
+                ],
+                [
+                    67.29,
+                    1073.35
+                ],
+                [
+                    67.29,
+                    1050.22
+                ],
+                [
+                    92.53,
+                    995.54
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the video player\u2019s circular progress bar to the very beginning.",
+    "modality": "GUI"
+}

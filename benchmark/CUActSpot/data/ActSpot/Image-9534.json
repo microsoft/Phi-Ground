@@ -1,0 +1,61 @@
+{
+    "image_id": "Image-9534",
+    "task": "\u73b0\u5728ps\u4e2d\u6709\u4e00\u9876\u5c0f\u5e3d\u5b50\uff0c\u8bf7\u4f60\u62d6\u52a8\u4ed6\u79fb\u52a8\u5230\u5c0f\u9e7f\u7684\u5934\u4e0a\u65b9",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    966.85,
+                    649.44
+                ],
+                [
+                    975.51,
+                    892.02
+                ],
+                [
+                    1199.03,
+                    867.76
+                ],
+                [
+                    1197.3,
+                    647.71
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1093.33,
+                    188.54
+                ],
+                [
+                    1044.82,
+                    394.73
+                ],
+                [
+                    1147.05,
+                    495.23
+                ],
+                [
+                    1304.72,
+                    488.3
+                ],
+                [
+                    1315.12,
+                    174.68
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "In Photoshop, there is a small hat; please drag it and place it above the little deer's head.",
+    "modality": "Image"
+}

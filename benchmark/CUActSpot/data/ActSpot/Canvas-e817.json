@@ -1,0 +1,65 @@
+{
+    "image_id": "Canvas-e817",
+    "task": "\u73b0\u5728\u6211\u5728WPS PPT \u4e2d\u9009\u4e2d\u4e86\u5fc3\u5f62\u7ed8\u5236\u5de5\u5177\uff0c\u9700\u8981\u4ece\u6b63\u5728\u7f16\u8f91\u7684ppt\u9875\u4e2d\u77e9\u5f62\u4e2d\u753b\u51fa\u4e00\u4e2a\u5185\u5207\u4e8e\u77e9\u5f62\u7684\u5fc3\u5f62\u56fe\u6848\uff0c\u4f60\u9700\u8981\u4ece\u77e9\u5f62\u5de6\u4e0a\u89d2\u62d6\u52a8\u5230\u53f3\u4e0b\u89d2",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    866.0,
+                    483.15
+                ],
+                [
+                    789.73,
+                    545.85
+                ],
+                [
+                    799.9,
+                    598.39
+                ],
+                [
+                    903.28,
+                    601.78
+                ],
+                [
+                    937.17,
+                    505.18
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1537.1,
+                    1050.87
+                ],
+                [
+                    1430.33,
+                    1071.21
+                ],
+                [
+                    1443.89,
+                    1162.73
+                ],
+                [
+                    1501.51,
+                    1184.76
+                ],
+                [
+                    1567.61,
+                    1144.08
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I am currently using WPS PPT and have selected the heart shape drawing tool. I need to draw a heart shape inscribed within a rectangle on the slide I\u2019m editing. You should drag from the rectangle\u2019s top-left corner to its bottom-right corner.",
+    "modality": "Canvas"
+}

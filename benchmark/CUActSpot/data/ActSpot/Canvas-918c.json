@@ -1,0 +1,79 @@
+{
+  "image_id": "Canvas-918c",
+  "task": "Currently, the bottom vertex of this dialog box is not pointing at the smiley face. Please drag the gray circle at the bottom vertex of the dialog box to a position just to the right of the smiley face.",
+  "polygons": [
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          946.33,
+          640.14
+        ],
+        [
+          971.57,
+          652.76
+        ],
+        [
+          977.88,
+          684.3
+        ],
+        [
+          950.54,
+          688.51
+        ],
+        [
+          929.51,
+          669.58
+        ],
+        [
+          942.12,
+          635.93
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          820.15,
+          654.86
+        ],
+        [
+          784.4,
+          570.74
+        ],
+        [
+          712.9,
+          566.54
+        ],
+        [
+          660.33,
+          591.77
+        ],
+        [
+          668.74,
+          633.83
+        ],
+        [
+          693.98,
+          738.98
+        ],
+        [
+          782.3,
+          728.46
+        ],
+        [
+          813.84,
+          688.51
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

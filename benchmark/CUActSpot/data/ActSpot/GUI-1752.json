@@ -1,0 +1,41 @@
+{
+    "image_id": "GUI-1752",
+    "task": "\u70b9\u51fb\u732b\u732b\u73a9\u5177\u7684\u201cAdd to cart\u201d\u6309\u94ae",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    325.79,
+                    980.99
+                ],
+                [
+                    502.35,
+                    1012.52
+                ],
+                [
+                    504.45,
+                    1111.3
+                ],
+                [
+                    298.46,
+                    1075.57
+                ],
+                [
+                    317.38,
+                    978.89
+                ],
+                [
+                    321.58,
+                    983.09
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Click the \u201cAdd to Cart\u201d button for the cat toy.",
+    "modality": "GUI"
+}

@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-91ab",
+    "task": "\u62d6\u52a8\u9f20\u6807\u9009\u4e2d\u542b\u6709apple\u548celephant\u4ee5\u53ca\u4e4b\u95f4\u7684\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    516.89,
+                    940.72
+                ],
+                [
+                    516.89,
+                    994.95
+                ],
+                [
+                    681.27,
+                    993.25
+                ],
+                [
+                    677.88,
+                    939.02
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    972.76,
+                    939.02
+                ],
+                [
+                    974.46,
+                    1000.03
+                ],
+                [
+                    1149.01,
+                    993.25
+                ],
+                [
+                    1142.23,
+                    939.02
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the mouse to select the cells containing \u201capple\u201d and \u201celephant\u201d and the cells between them.",
+    "modality": "Table"
+}

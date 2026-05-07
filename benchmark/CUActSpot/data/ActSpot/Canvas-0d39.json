@@ -1,0 +1,43 @@
+{
+  "image_id": "Canvas-0d39",
+  "task": "The circle layer I drew in WPS PPT is located beneath the fan-shaped layer. Please avoid selecting the fan or any other shapes and select only the circle layer.",
+  "polygons": [
+    {
+      "id": "R1",
+      "type": "Target",
+      "points": [
+        [
+          1094.78,
+          969.53
+        ],
+        [
+          1094.78,
+          1088.16
+        ],
+        [
+          1235.44,
+          1083.07
+        ],
+        [
+          1213.41,
+          1010.2
+        ],
+        [
+          1169.35,
+          976.31
+        ],
+        [
+          1125.29,
+          962.75
+        ],
+        [
+          1110.03,
+          964.44
+        ]
+      ],
+      "rank": "",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-c7a5",
+    "task": "\u62d6\u52a8\u5355\u5143\u683cC8\u8986\u76d6apple\u6240\u5728\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    426.49,
+                    476.76
+                ],
+                [
+                    428.04,
+                    529.49
+                ],
+                [
+                    628.11,
+                    524.83
+                ],
+                [
+                    623.45,
+                    472.1
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    423.39,
+                    510.88
+                ],
+                [
+                    423.39,
+                    565.16
+                ],
+                [
+                    618.8,
+                    554.3
+                ],
+                [
+                    617.25,
+                    507.77
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag cell C8 to cover the cell containing \"apple.\"",
+    "modality": "Table"
+}

@@ -1,0 +1,81 @@
+{
+    "image_id": "Canvas-0318",
+    "task": "\u5047\u8bbe\u5f53\u524d\u5df2\u9009\u4e2d\u7ed8\u5236\u591a\u8fb9\u5f62\u7684\u5de5\u5177\u3002\u8bc6\u522b\u753b\u9762\u4e2d\u6240\u6709\u7ed9\u5b9a\u6b63\u65b9\u5f62\u7684\u4e2d\u5fc3\u70b9\uff0c\u5e76\u4ee5\u8fd9\u4e9b\u4e2d\u5fc3\u70b9\u4f5c\u4e3a\u591a\u8fb9\u5f62\u9876\u70b9\uff0c\u4ece\u53f3\u4e0a\u89d2\u90a3\u4e2a\u5f00\u59cb\uff0c\u6309\u7167\u5b83\u4eec\u5728\u753b\u9762\u4e2d\u7684\u9006\u65f6\u9488\u987a\u5e8f\u4f9d\u6b21\u8fde\u63a5\uff0c\u7ed8\u5236\u4e00\u4e2a\u95ed\u5408\u591a\u8fb9\u5f62\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1375.88,
+                    541.29
+                ],
+                [
+                    1359.1,
+                    655.94
+                ],
+                [
+                    1515.7,
+                    667.13
+                ],
+                [
+                    1524.09,
+                    541.29
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    626.42,
+                    566.45
+                ],
+                [
+                    718.7,
+                    518.91
+                ],
+                [
+                    791.41,
+                    644.76
+                ],
+                [
+                    676.75,
+                    700.69
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    1115.8,
+                    994.32
+                ],
+                [
+                    1188.51,
+                    1067.03
+                ],
+                [
+                    1118.6,
+                    1156.52
+                ],
+                [
+                    1034.7,
+                    1083.81
+                ]
+            ],
+            "rank": "3",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "With the polygon drawing tool selected, identify the center points of all the given squares in the image and use those centers as the polygon\u2019s vertices. Beginning with the square in the top-right corner, connect the points in counterclockwise order as they appear in the image to form a closed polygon.",
+    "modality": "Canvas"
+}

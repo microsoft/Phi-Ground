@@ -1,0 +1,49 @@
+{
+    "image_id": "Canvas-cf0c",
+    "task": "\u9009\u4e2d\u5706\u5f62\u5bf9\u8c61\u56fe\u5c42\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    717.02,
+                    469.85
+                ],
+                [
+                    665.49,
+                    537.07
+                ],
+                [
+                    692.38,
+                    613.26
+                ],
+                [
+                    773.04,
+                    653.59
+                ],
+                [
+                    869.39,
+                    633.42
+                ],
+                [
+                    907.48,
+                    539.32
+                ],
+                [
+                    869.39,
+                    465.37
+                ],
+                [
+                    775.28,
+                    434.0
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Select the circular object layer.",
+    "modality": "Canvas"
+}

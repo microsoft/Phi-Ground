@@ -1,0 +1,63 @@
+{
+  "image_id": "GUI-2c46",
+  "task": "Drag the top edge of the OneNote window to the right until its right side is flush with the right side of the screen.",
+  "polygons": [
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          383.1,
+          51.72
+        ],
+        [
+          393.99,
+          5.44
+        ],
+        [
+          181.68,
+          5.44
+        ],
+        [
+          184.4,
+          54.44
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          892.11,
+          127.93
+        ],
+        [
+          889.39,
+          0.0
+        ],
+        [
+          1199.0,
+          0.0
+        ],
+        [
+          1199.0,
+          740.38
+        ],
+        [
+          1052.71,
+          247.7
+        ],
+        [
+          922.06,
+          163.32
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

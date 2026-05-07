@@ -1,0 +1,97 @@
+{
+    "image_id": "GUI-2103",
+    "task": "\u62d6\u52a8\u7f51\u9875\u6d4f\u89c8\u5668\u7684\u4e0a\u6cbf\u5230\u6b63\u53f3\u4fa7\uff0c\u6ce8\u610f\u4e0d\u8981\u62d6\u52a8\u5230\u7f51\u9875\u7684\u6807\u7b7e\uff0c\u4f7f\u5f97\u7a97\u53e3\u7684\u53f3\u4fa7\u7d27\u8d34\u5c4f\u5e55\u7684\u53f3\u4fa7",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    937.43,
+                    396.67
+                ],
+                [
+                    1210.67,
+                    400.87
+                ],
+                [
+                    1206.47,
+                    466.03
+                ],
+                [
+                    933.23,
+                    451.32
+                ],
+                [
+                    939.53,
+                    392.47
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Banned",
+            "points": [
+                [
+                    48.34,
+                    400.87
+                ],
+                [
+                    933.23,
+                    398.77
+                ],
+                [
+                    918.51,
+                    447.12
+                ],
+                [
+                    8.41,
+                    459.73
+                ],
+                [
+                    39.94,
+                    394.57
+                ],
+                [
+                    50.44,
+                    407.18
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R4",
+            "type": "Target",
+            "points": [
+                [
+                    1920.08,
+                    548.0
+                ],
+                [
+                    1920.49,
+                    350.43
+                ],
+                [
+                    1794.99,
+                    352.53
+                ],
+                [
+                    1788.68,
+                    583.74
+                ],
+                [
+                    1920.08,
+                    558.51
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the top edge of the web browser to the right side of the screen, being careful not to drag the tab bar, so that the window\u2019s right edge is flush with the screen\u2019s right edge.",
+    "modality": "GUI"
+}

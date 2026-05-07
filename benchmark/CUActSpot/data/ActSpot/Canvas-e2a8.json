@@ -1,0 +1,55 @@
+{
+  "image_id": "Canvas-e2a8",
+  "task": "Assuming the \"Draw Directed Edge\" tool is selected, select the green square on the left circle’s border as the starting point of the directed edge and drag it to the red square on the right circle’s border.",
+  "polygons": [
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          691.22,
+          701.01
+        ],
+        [
+          691.22,
+          756.23
+        ],
+        [
+          739.81,
+          758.44
+        ],
+        [
+          739.81,
+          692.18
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R4",
+      "type": "Target",
+      "points": [
+        [
+          1451.01,
+          672.3
+        ],
+        [
+          1453.22,
+          745.19
+        ],
+        [
+          1506.23,
+          740.77
+        ],
+        [
+          1508.44,
+          663.46
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}

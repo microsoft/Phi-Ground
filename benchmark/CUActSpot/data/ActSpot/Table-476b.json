@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-476b",
+    "task": "\u62d6\u52a8\u9f20\u6807\u9009\u4e2d\u542b\u6709apple\u548cbanana\u7684\u4e24\u4e2a\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    431.15,
+                    548.1
+                ],
+                [
+                    431.15,
+                    600.83
+                ],
+                [
+                    621.9,
+                    594.62
+                ],
+                [
+                    614.15,
+                    554.3
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    603.29,
+                    545.0
+                ],
+                [
+                    609.5,
+                    611.68
+                ],
+                [
+                    801.81,
+                    600.83
+                ],
+                [
+                    797.15,
+                    540.34
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the mouse to select the two cells containing apple and banana.",
+    "modality": "Table"
+}

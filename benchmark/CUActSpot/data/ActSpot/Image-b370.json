@@ -1,0 +1,73 @@
+{
+    "image_id": "Image-b370",
+    "task": "\u6211\u6b63\u5728\u4f7f\u7528\u88c1\u526a\u56fe\u7247\u529f\u80fd\uff0c\u6211\u60f3\u8981\u628a\u753b\u9762\u4e2d\u7ea2\u8272\u88d9\u5b50\u7684\u5973\u751f\u88c1\u526a\u4e0b\u6765\uff0c\u4e0d\u4fdd\u7559\u4efb\u4f55\u7a7a\u4f59\u7a7a\u95f4\u3002",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    1745.45,
+                    1283.04
+                ],
+                [
+                    1829.57,
+                    1301.44
+                ],
+                [
+                    1826.94,
+                    1369.79
+                ],
+                [
+                    1713.91,
+                    1398.7
+                ],
+                [
+                    1719.17,
+                    1327.73
+                ],
+                [
+                    1734.94,
+                    1304.07
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    1422.12,
+                    1054.34
+                ],
+                [
+                    1401.1,
+                    1148.98
+                ],
+                [
+                    1490.47,
+                    1148.98
+                ],
+                [
+                    1527.27,
+                    1088.52
+                ],
+                [
+                    1506.24,
+                    1059.6
+                ],
+                [
+                    1435.27,
+                    1056.97
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "I am using the image cropping feature and want to crop out the girl in the red dress from the scene without leaving any extra space.",
+    "modality": "Image"
+}

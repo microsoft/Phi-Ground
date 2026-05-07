@@ -1,0 +1,33 @@
+{
+    "image_id": "GUI-6da4",
+    "task": "\u76f4\u63a5\u5173\u95ed\u6574\u4e2a\u6d4f\u89c8\u5668\u9875\u9762",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2470.17,
+                    0.0
+                ],
+                [
+                    2475.76,
+                    72.25
+                ],
+                [
+                    2545.62,
+                    83.43
+                ],
+                [
+                    2548.41,
+                    0.0
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Directly close the entire browser page.",
+    "modality": "GUI"
+}

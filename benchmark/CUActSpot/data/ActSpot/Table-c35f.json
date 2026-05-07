@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-c35f",
+    "task": "\u62d6\u52a8\u9009\u4e2d\u7684\u5355\u5143\u683c\u5230\u4e0a\u4e00\u884c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    421.84,
+                    513.98
+                ],
+                [
+                    428.04,
+                    572.91
+                ],
+                [
+                    814.21,
+                    563.61
+                ],
+                [
+                    809.56,
+                    503.12
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    420.29,
+                    469.0
+                ],
+                [
+                    424.94,
+                    520.18
+                ],
+                [
+                    803.36,
+                    527.94
+                ],
+                [
+                    814.21,
+                    470.55
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the selected cells to the previous row.",
+    "modality": "Table"
+}

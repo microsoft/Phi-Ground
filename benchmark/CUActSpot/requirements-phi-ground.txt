@@ -1,0 +1,23 @@
+# Extra dependencies for the Phi-Ground family:
+#   - microsoft/Phi-Ground (vLLM)
+#   - phi_ground_4b_16c (Phi-3.5-Vision based, 4B, 16-crop)
+#
+# Install this on top of the base requirements *in a dedicated environment*:
+#   pip install -r requirements-phi-ground.txt
+#
+# Phi-Ground is built on the Phi-3.5-Vision backbone, which works best with an
+# older transformers / vLLM combination than the Qwen-VL stack. We therefore
+# do NOT inherit from the base requirements file — keep this isolated.
+
+Pillow>=10.0.0
+tqdm>=4.65.0
+requests>=2.31.0
+numpy>=1.24.0
+
+# Phi-3.5-Vision compatible range.
+transformers>=4.43.0,<4.46.0
+torch>=2.1.0
+accelerate>=0.30.0
+
+# vLLM build that ships the Phi-3.5-Vision multimodal model.
+vllm>=0.6.0,<0.7.0

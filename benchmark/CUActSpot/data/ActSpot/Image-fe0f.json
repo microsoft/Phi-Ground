@@ -1,0 +1,65 @@
+{
+    "image_id": "Image-fe0f",
+    "task": "\u4ece\u5f53\u524d\u753b\u9762\u4e0b\u534a\u90e8\u5206\u4efb\u610f\u4f4d\u7f6e\u62d6\u52a8\u5230\u753b\u9762\u4e0a\u534a\u90e8\u5206\u4efb\u610f\u4f4d\u7f6e\uff0c\u7c7b\u4f3c\u624b\u673a\u4e0a\u5212\u64cd\u4f5c\u6765\u5207\u6362\u5230\u4e0b\u4e00\u6761\u6296\u97f3\u89c6\u9891",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    35.75,
+                    699.02
+                ],
+                [
+                    1907.38,
+                    667.48
+                ],
+                [
+                    1909.49,
+                    1111.2
+                ],
+                [
+                    37.85,
+                    1083.86
+                ],
+                [
+                    29.44,
+                    705.33
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    46.27,
+                    549.71
+                ],
+                [
+                    1898.97,
+                    551.82
+                ],
+                [
+                    1894.76,
+                    42.9
+                ],
+                [
+                    16.82,
+                    61.83
+                ],
+                [
+                    42.06,
+                    553.92
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag from any point in the bottom half of the current screen to any point in the top half, similar to a swipe-up gesture on a smartphone, to switch to the next Douyin video.",
+    "modality": "Image"
+}

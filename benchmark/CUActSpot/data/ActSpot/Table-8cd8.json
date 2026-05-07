@@ -1,0 +1,57 @@
+{
+    "image_id": "Table-8cd8",
+    "task": "\u62d6\u52a8\u542b\u6709fish\u7684\u884c\u8868\u5934\u79fb\u52a8\u52306\u884c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    3.39,
+                    403.5
+                ],
+                [
+                    108.46,
+                    411.97
+                ],
+                [
+                    84.74,
+                    461.12
+                ],
+                [
+                    0.0,
+                    461.12
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    96.6,
+                    501.79
+                ],
+                [
+                    1.69,
+                    496.7
+                ],
+                [
+                    0.0,
+                    435.7
+                ],
+                [
+                    89.82,
+                    440.78
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Drag the row header containing \u201cfish\u201d to row 6.",
+    "modality": "Table"
+}

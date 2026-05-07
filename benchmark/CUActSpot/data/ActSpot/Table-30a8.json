@@ -1,0 +1,33 @@
+{
+    "image_id": "Table-30a8",
+    "task": "\u8bf7\u5728\u8868\u683c\u4e2d\u9009\u4e2dcat\u6240\u5728\u7684\u5355\u5143\u683c",
+    "polygons": [
+        {
+            "id": "R1",
+            "type": "Target",
+            "points": [
+                [
+                    364.36,
+                    339.1
+                ],
+                [
+                    364.36,
+                    396.72
+                ],
+                [
+                    532.14,
+                    389.94
+                ],
+                [
+                    523.66,
+                    328.93
+                ]
+            ],
+            "rank": "",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Please select the cell containing \"cat\" in the table.",
+    "modality": "Table"
+}

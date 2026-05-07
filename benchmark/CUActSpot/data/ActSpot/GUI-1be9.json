@@ -1,0 +1,67 @@
+{
+    "image_id": "GUI-1be9",
+    "task": "\u5c06\u53f3\u4fa7Paint Installer.exe \u6587\u4ef6\u62d6\u62fd\u5230 Hugging Face \u4ed3\u5e93\u4e0a\u4f20\u9875\u9762\u7684\u6587\u4ef6\u4e0a\u4f20\u533a\u57df\u3002",
+    "polygons": [
+        {
+            "id": "R2",
+            "type": "Target",
+            "points": [
+                [
+                    2040.52,
+                    143.52
+                ],
+                [
+                    2049.76,
+                    275.95
+                ],
+                [
+                    2474.77,
+                    306.75
+                ],
+                [
+                    2493.25,
+                    143.52
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    131.07,
+                    1132.12
+                ],
+                [
+                    109.51,
+                    1372.34
+                ],
+                [
+                    2416.25,
+                    1366.18
+                ],
+                [
+                    2416.25,
+                    1178.32
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [
+        {
+            "id": "R4",
+            "type": "Mask",
+            "x1": 327.57,
+            "y1": 53.45,
+            "x2": 643.95,
+            "y2": 115.04,
+            "visible": true
+        }
+    ],
+    "task_en": "Drag the Paint Installer.exe file on the right into the file upload area on the Hugging Face repository upload page.",
+    "modality": "GUI"
+}

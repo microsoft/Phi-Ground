@@ -4,7 +4,7 @@
    <a href="https://microsoft.github.io/Phi-Ground/" target="_blank">🤖 HomePage</a> | <a href="https://huggingface.co/papers/2507.23779" target="_blank">📄 Paper </a> | <a href="https://arxiv.org/abs/2507.23779" target="_blank">📄 Arxiv </a> |<a href="https://huggingface.co/microsoft/Phi-Ground" target="_blank"> 😊 Model </a> | <a href="benchmark/new_annotations" target="_blank"> 😊 Eval data </a> 
 </p>
 
-Home page for Microsoft Phi-Ground tech-report.
+Home page for Microsoft Phi-Ground series tech-report.
 
 
 
@@ -30,7 +30,9 @@ With the development of multimodal reasoning models, Computer Use Agents (CUAs),
 
 ## News 
 
-- 🔥 #2 Paper of the day in huggingface [daily papers](https://huggingface.co/papers/2507.23779)
+
+- 🔥 New paper coming soon, with new model, dataset, benchmark!
+- 🔥 Phi-Ground reached #2 Paper of the day in huggingface [daily papers](https://huggingface.co/papers/2507.23779)
 
 
 ## Release Plans
@@ -38,6 +40,11 @@ With the development of multimodal reasoning models, Computer Use Agents (CUAs),
 - [x] [Phi-Ground-4B-7C](https://huggingface.co/microsoft/Phi-Ground)
 - [x] Evaluation code for benchmarks
 - [x] [GPT-4O & O4-mini's planning data for evaluation](benchmark/new_annotations)
+- [x] [CUActSpot benchmark & code](benchmark/CUActSpot)
+- [ ] Phi-Ground-Any model
+- [ ] [Training data of Phi-Ground-Any model](https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI) 
+
+
 
 Please stay tuned!
 

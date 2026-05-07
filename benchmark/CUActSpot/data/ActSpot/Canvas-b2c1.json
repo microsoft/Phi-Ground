@@ -1,0 +1,149 @@
+{
+    "image_id": "Canvas-b2c1",
+    "task": "\u5047\u8bbe\u5f53\u524d\u5df2\u8fdb\u5165\u5f62\u72b6\u7f16\u8f91\u6a21\u5f0f\uff0c\u9009\u4e2d\u8fd9\u6761\u66f2\u7ebf\u4e00\u70b9\uff0c\u5e76\u62d6\u62fd\u66f2\u7ebf\u4e2d\u4e0a\u90e8\u533a\u57df\u5411\u4e0b\u8c03\u6574\uff0c\u4f7f\u539f\u672c\u5355\u4e2a\u6700\u9ad8\u70b9\u5206\u88c2\u4e3a\u5de6\u53f3\u4e24\u4e2a\u5cf0\uff0c\u4e2d\u95f4\u5f62\u6210\u4e00\u4e2a\u660e\u663e\u7684\u4e0b\u51f9\u8c37\u5e95\u3002",
+    "polygons": [
+        {
+            "id": "R3",
+            "type": "Target",
+            "points": [
+                [
+                    764.14,
+                    732.12
+                ],
+                [
+                    850.6,
+                    637.3
+                ],
+                [
+                    948.21,
+                    592.68
+                ],
+                [
+                    1037.45,
+                    584.31
+                ],
+                [
+                    1149.0,
+                    617.78
+                ],
+                [
+                    1254.98,
+                    648.46
+                ],
+                [
+                    1268.92,
+                    548.06
+                ],
+                [
+                    1201.99,
+                    528.54
+                ],
+                [
+                    1157.37,
+                    509.01
+                ],
+                [
+                    1056.97,
+                    492.28
+                ],
+                [
+                    850.6,
+                    553.64
+                ],
+                [
+                    780.88,
+                    589.89
+                ],
+                [
+                    727.89,
+                    642.88
+                ],
+                [
+                    736.25,
+                    729.33
+                ],
+                [
+                    766.93,
+                    734.91
+                ],
+                [
+                    758.56,
+                    729.33
+                ]
+            ],
+            "rank": "1",
+            "visible": true
+        },
+        {
+            "id": "R5",
+            "type": "Target",
+            "points": [
+                [
+                    856.17,
+                    818.58
+                ],
+                [
+                    875.7,
+                    748.85
+                ],
+                [
+                    978.88,
+                    704.23
+                ],
+                [
+                    1059.76,
+                    698.66
+                ],
+                [
+                    1182.47,
+                    715.39
+                ],
+                [
+                    1260.56,
+                    760.01
+                ],
+                [
+                    1302.39,
+                    807.42
+                ],
+                [
+                    1355.38,
+                    907.82
+                ],
+                [
+                    1394.42,
+                    1013.79
+                ],
+                [
+                    1285.66,
+                    1055.63
+                ],
+                [
+                    1107.17,
+                    1089.09
+                ],
+                [
+                    970.52,
+                    1086.3
+                ],
+                [
+                    864.54,
+                    1016.58
+                ],
+                [
+                    805.97,
+                    910.61
+                ],
+                [
+                    789.24,
+                    868.77
+                ]
+            ],
+            "rank": "2",
+            "visible": true
+        }
+    ],
+    "masks": [],
+    "task_en": "Assume you are in shape editing mode; select a point on the curve and drag the upper-middle section downward so that the original single highest point splits into two peaks on the left and right, creating a distinct concave valley in the center.",
+    "modality": "Canvas"
+}

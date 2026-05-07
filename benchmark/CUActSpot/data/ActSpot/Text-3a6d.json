@@ -1,0 +1,63 @@
+{
+  "image_id": "Text-3a6d",
+  "task": "Drag the mouse to select the English word “Which” in the question in the cell in row 5 of the “Wednesday” column; this word is above the bolded “unkind.”",
+  "polygons": [
+    {
+      "id": "R2",
+      "type": "Target",
+      "points": [
+        [
+          533.31,
+          740.31
+        ],
+        [
+          556.6,
+          738.65
+        ],
+        [
+          558.26,
+          755.81
+        ],
+        [
+          537.18,
+          759.69
+        ],
+        [
+          536.08,
+          755.26
+        ],
+        [
+          536.08,
+          739.75
+        ]
+      ],
+      "rank": "1",
+      "visible": true
+    },
+    {
+      "id": "R3",
+      "type": "Target",
+      "points": [
+        [
+          578.2,
+          738.65
+        ],
+        [
+          587.61,
+          740.31
+        ],
+        [
+          587.18,
+          759.14
+        ],
+        [
+          575.43,
+          753.6
+        ]
+      ],
+      "rank": "2",
+      "visible": true
+    }
+  ],
+  "masks": []
+}
