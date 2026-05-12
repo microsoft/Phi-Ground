@@ -171,12 +171,8 @@ python run_eval.py --config configs/phi_ground_vllm_full.json \
 | Model | HF ID | Config |
 | --- | --- | --- |
 | Phi-Ground-4B-7C | `microsoft/Phi-Ground` | `configs/phi_ground_vllm_full.json` |
-| Phi-Ground-4B-16C | *local checkpoint* | `configs/phi_ground_4b_16c_full.json` |
 | Phi-Ground-Any-4B | `microsoft/Phi-Ground-Any` | `configs/phi_ground_any_hf_full.json` |
 
-> For `phi_ground_4b_16c_full.json`, replace the placeholder
-> `<PATH_OR_HF_ID_TO_PHI_GROUND_4B_16C_CHECKPOINT>` with a real local path
-> or HF ID before running.
 
 ### D. In-process HuggingFace `transformers`
 
