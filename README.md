@@ -41,10 +41,9 @@ With the development of multimodal reasoning models, Computer Use Agents (CUAs),
 - [x] Evaluation code for benchmarks
 - [x] [GPT-4O & O4-mini's planning data for evaluation](benchmark/new_annotations)
 - [x] [CUActSpot benchmark & code](benchmark/CUActSpot)
-- [ ] Phi-Ground-Any model
-- [ ] [Training data of Phi-Ground-Any model](https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI) 
-
-
+- [x] [Phi-Ground-Any model](https://huggingface.co/microsoft/Phi-Ground-Any)
+- [x] [Training data of Phi-Ground-Any model](https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI) 
+- [ ] [Phi-Ground-Any paper]()
 
 Please stay tuned!
 

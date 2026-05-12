@@ -1,0 +1,25 @@
+{
+  "dataset": {
+    "data_dir": "data/ActSpot"
+  },
+  "model": {
+    "name": "Phi-Ground-Any (HF)",
+    "preset": "phi_ground_anything_4b_debug_vllm",
+    "backend": {
+      "target": "phi_ground_vllm",
+      "kwargs": {
+        "model": "microsoft/Phi-Ground-Any",
+        "max_model_len": 8192,
+        "max_num_seqs": 10
+      }
+    }
+  },
+  "output": {
+    "output_dir": "outputs/phi_ground_any_hf_full",
+    "report_file": "report.json",
+    "overwrite": true
+  },
+  "runtime": {
+    "continue_on_error": true
+  }
+}

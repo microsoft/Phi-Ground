@@ -871,6 +871,46 @@ PHI_GROUND_ANYTHING_PROMPT_TEMPLATE = "<|user|> \n{instruction}<|image_1|> \n<|e
 
 register_model_spec(
     ModelSpec(
+        name="phi_ground_anything_4b_debug_vllm",
+        description="Phi-Ground-Anything-4B preset using vLLM with 1680x1008 canvas and <x>/<y> tag output.",
+        adapter=ComponentConfig(target="composable_adapter"),
+        backend=ComponentConfig(
+            target="phi_ground_vllm",
+            kwargs={
+                "model": "microsoft/Phi-Ground-Any",
+                "max_model_len": 8192,
+                "max_num_seqs": 10,
+            },
+        ),
+        prompt_builder=ComponentConfig(
+            target="phi_ground_actspot_prompt_builder",
+            kwargs={
+                "template": PHI_GROUND_ANYTHING_PROMPT_TEMPLATE,
+            },
+        ),
+        image_preprocessor=ComponentConfig(
+            target="phi_ground_image_preprocessor",
+            kwargs={
+                "target_width": 336 * 5,
+                "target_height": 336 * 3,
+            },
+        ),
+        parser=ComponentConfig(target="xy_tag_coordinate_parser"),
+        transformer=ComponentConfig(
+            target="phi_ground_relative_transformer",
+            kwargs={
+                "scale": 10000.0,
+            },
+        ),
+        generation={
+            "temperature": 0.0,
+            "max_tokens": 1024,
+        },
+    )
+)
+
+register_model_spec(
+    ModelSpec(
         name="infigui_r1_3b_transformers",
         description="InfiGUI-R1-3B grounding preset using HuggingFace Transformers inference.",
         adapter=ComponentConfig(target="composable_adapter"),
